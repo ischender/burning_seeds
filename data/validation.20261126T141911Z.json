@@ -1,0 +1,31 @@
+{
+  "schema_errors": [],
+  "errors": [],
+  "warnings": [
+    "editions.csv:2: missing coordinates for mama_burn 2012.",
+    "editions.csv:3: missing coordinates for octoburn 2012.",
+    "editions.csv:4: missing coordinates for midburn 2014.",
+    "editions.csv:5: missing coordinates for midburn 2018.",
+    "editions.csv:6: missing coordinates for element11 2006.",
+    "editions.csv:7: missing coordinates for element11 2013.",
+    "editions.csv:8: missing coordinates for element11 2014.",
+    "editions.csv:9: missing coordinates for element11 2015.",
+    "editions.csv:10: missing coordinates for element11 2016.",
+    "editions.csv:11: missing coordinates for element11 2017.",
+    "editions.csv:12: missing coordinates for element11 2018.",
+    "editions.csv:13: missing coordinates for element11 2019.",
+    "editions.csv:14: missing coordinates for element11 2020.",
+    "editions.csv:15: missing coordinates for element11 2021.",
+    "editions.csv:16: missing coordinates for element11 2022.",
+    "editions.csv:17: missing coordinates for the_borderland 2011.",
+    "editions.csv:18: missing coordinates for burning_man 1997."
+  ],
+  "stats": {
+    "events": 6,
+    "editions": 17,
+    "observations": 17,
+    "editions_missing_coords": 17,
+    "conflicting_event_year_metrics": 0
+  },
+  "conflicts": []
+}

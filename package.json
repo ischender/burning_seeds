@@ -1,0 +1,8 @@
+{
+  "name": "burning-seeds",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --dir viz dev",
+    "build": "pnpm --dir viz build"
+  }
+}

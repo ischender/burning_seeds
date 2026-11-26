@@ -34,13 +34,29 @@ The atlas is a local Svelte app. From the repository root, run:
 
 ```sh
 uv run --locked python export_viz.py data viz/src/editions.json
-npm --prefix viz ci
-npm --prefix viz run dev
+pnpm --dir viz install --frozen-lockfile
+pnpm dev
 ```
 
-For a static build, use `npm --prefix viz run build`. The export uses seed,
+For a static build, use `pnpm build`. The export uses seed,
 research, and recovered candidates in that order, with later batches taking
 precedence. It excludes catalogue snapshots and keeps conflicting attendance
 figures visible in the record list. Approximate map reference points and their
 sources are stored in `data/viz_locations.csv`. Edition records without a
 location fix remain visible in the list. Land geometry comes from Natural Earth.
+
+Regenerate the searchable global catalogue after importing a new copy of the
+2019 source sheet:
+
+```sh
+uv run --locked python export_viz.py data viz/src/catalogue.json --catalogue
+```
+
+The catalogue preserves the sheet's approximate sizes and locations for discovery.
+
+The catalogue map uses reference points in `data/catalogue_locations.csv`,
+matched against Natural Earth's 1:10m populated places. A listing uses its
+matched town, the relevant regional capital, or the national capital, in
+that order. The original listing location and the map precision are both
+shown. Virtual listings have no map point. These reference points apply
+only to the catalogue, since historical editions can move between venues.

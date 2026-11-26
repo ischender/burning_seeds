@@ -1,0 +1,18 @@
+event_id,year,location,lat,lon,population,population_metric,confidence,status,source_url
+mama_burn,2012,"HaBonim Beach, Israel",,,600,organizer_estimate,high,precursor_held,https://www.midburn.org/en/onmidburn
+octoburn,2012,"HaBonim Beach, Israel",,,1600,organizer_estimate,high,precursor_held,https://www.midburn.org/en/onmidburn
+midburn,2014,,,,3000,attendance,high,held,https://www.midburn.org/en/onmidburn
+midburn,2018,,,,12000,organizer_estimate,high,held,https://www.midburn.org/en/onmidburn
+element11,2006,"Bonneville Seabase, Utah",,,500,organizer_estimate,high,held,https://www.element11.org/history/timeline/
+element11,2013,,,,1200,organizer_estimate,high,held,https://www.element11.org/history/timeline/
+element11,2014,"Bonneville Seabase, Utah",,,1200,organizer_estimate,high,held,https://www.element11.org/history/timeline/
+element11,2015,"Stargazer Ranch, Utah",,,1300,organizer_estimate,high,held,https://www.element11.org/history/timeline/
+element11,2016,,,,1400,organizer_estimate,high,held,https://www.element11.org/history/timeline/
+element11,2017,,,,1200,organizer_estimate,high,held,https://www.element11.org/history/timeline/
+element11,2018,,,,1300,organizer_estimate,high,held,https://www.element11.org/history/timeline/
+element11,2019,,,,1400,organizer_estimate,high,held,https://www.element11.org/history/timeline/
+element11,2020,,,,,not_applicable,high,cancelled,https://www.element11.org/history/timeline/
+element11,2021,,,,1600,capacity,high,held,https://www.element11.org/history/timeline/
+element11,2022,,,,1800,capacity,high,held,https://www.element11.org/history/timeline/
+the_borderland,2011,,,,46,attendance,high,held,https://talk.theborderland.se/main
+burning_man,1997,"Hualapai Flat and Fly Ranch, Nevada",,,10000,attendance,high,held,https://history.burningman.org/timeline/1997/

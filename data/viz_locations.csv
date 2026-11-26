@@ -1,0 +1,8 @@
+event_id,start,end,location,lat,lon,source_url
+burning_man,1986,1989,"Baker Beach, San Francisco (approximate)",37.79,-122.48,https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=16212
+burning_man,1991,1996,"Black Rock Desert, Nevada (regional reference point)",40.786432,-119.206695,https://eplanning.blm.gov/public_projects/nepa/93518/167560/203998/AERMOD_Modeling_Report.pdf
+burning_man,1998,2024,"Black Rock Desert, Nevada (regional reference point)",40.786432,-119.206695,https://eplanning.blm.gov/public_projects/nepa/93518/167560/203998/AERMOD_Modeling_Report.pdf
+burning_man,2025,2025,"Black Rock City, Nevada (approximate)",40.807354,-119.216621,https://bm-innovate.s3.amazonaws.com/2025/2025%20BRC%20Measurements.doc.pdf
+nowhere,2023,2023,"Monegros, Spain (organizer GPS)",41.679270,-0.151182,https://www.goingnowhere.org/files/SurvivalGuide_2023_EN.pdf
+afrikaburn,2014,2014,"Stonehenge farm, Tankwa Karoo (approach)",-32.326841,19.748139,https://www.afrikaburn.org/wp-content/uploads/2022/09/AfrikaBurn_Survival-Guide_20141.pdf
+afrikaburn,2022,2024,"Quaggafontein, Tankwa Karoo (entrance)",-32.482639,19.897611,https://quaggapedia.afrikaburn.com/index.php?title=GETTING_THERE_%26_DIRECTIONS

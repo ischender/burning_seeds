@@ -1,0 +1,36 @@
+observation_id,event_id,year,field,value,metric,source_url,source_type,retrieved_at,confidence,raw_text,notes
+afrikaburn_2007_organizer_estimate_1,afrikaburn,2007,population,~1000,organizer_estimate,https://www.afrikaburn.org/event/event-archive/,organizer_archive,2026-11-26,high,,Organizer participant count.
+afrikaburn_2008_organizer_estimate_2,afrikaburn,2008,population,~1200,organizer_estimate,https://www.afrikaburn.org/event/event-archive/,organizer_archive,2026-11-26,high,,Organizer participant count.
+afrikaburn_2009_organizer_estimate_3,afrikaburn,2009,population,~1600,organizer_estimate,https://www.afrikaburn.org/event/event-archive/,organizer_archive,2026-11-26,high,,Organizer participant count.
+afrikaburn_2010_organizer_estimate_4,afrikaburn,2010,population,~2200,organizer_estimate,https://www.afrikaburn.org/event/event-archive/,organizer_archive,2026-11-26,high,,Organizer participant count.
+afrikaburn_2011_organizer_estimate_5,afrikaburn,2011,population,~4000,organizer_estimate,https://www.afrikaburn.org/event/event-archive/,organizer_archive,2026-11-26,high,,Organizer participant count.
+afrikaburn_2012_attendance_6,afrikaburn,2012,population,5700,attendance,https://www.afrikaburn.org/event/event-archive/,organizer_archive,2026-11-26,high,,Organizer participant count.
+afrikaburn_2013_attendance_7,afrikaburn,2013,population,7000,attendance,https://www.afrikaburn.org/event/event-archive/,organizer_archive,2026-11-26,high,,Organizer participant count.
+afrikaburn_2014_attendance_8,afrikaburn,2014,population,9000,attendance,https://www.afrikaburn.org/event/event-archive/,organizer_archive,2026-11-26,high,,Organizer participant count.
+afrikaburn_2015_attendance_9,afrikaburn,2015,population,9800,attendance,https://www.afrikaburn.org/event/event-archive/,organizer_archive,2026-11-26,high,,Organizer participant count.
+afrikaburn_2016_attendance_10,afrikaburn,2016,population,11800,attendance,https://www.afrikaburn.org/event/event-archive/,organizer_archive,2026-11-26,high,,Organizer participant count.
+afrikaburn_2017_attendance_11,afrikaburn,2017,population,13000,attendance,https://www.afrikaburn.org/event/event-archive/,organizer_archive,2026-11-26,high,,Organizer participant count.
+afrikaburn_2018_attendance_12,afrikaburn,2018,population,11000,attendance,https://www.afrikaburn.org/event/event-archive/,organizer_archive,2026-11-26,high,,Organizer participant count.
+afrikaburn_2019_attendance_13,afrikaburn,2019,population,11500,attendance,https://www.afrikaburn.org/event/event-archive/,organizer_archive,2026-11-26,high,,Organizer participant count.
+afrikaburn_2020_not_applicable_14,afrikaburn,2020,population,0,not_applicable,https://www.afrikaburn.org/event/event-archive/,organizer_archive,2026-11-26,high,,Archive displays zero for cancelled physical edition.
+afrikaburn_2021_not_applicable_15,afrikaburn,2021,population,0,not_applicable,https://www.afrikaburn.org/event/event-archive/,organizer_archive,2026-11-26,high,,Archive displays zero for cancelled physical edition.
+afrikaburn_2022_organizer_estimate_16,afrikaburn,2022,population,~6500,organizer_estimate,https://www.afrikaburn.org/event/event-archive/,organizer_archive,2026-11-26,high,,Organizer participant count.
+afrikaburn_2023_organizer_estimate_17,afrikaburn,2023,population,~9000,organizer_estimate,https://www.afrikaburn.org/event/event-archive/,organizer_archive,2026-11-26,high,,Organizer participant count.
+afrikaburn_2024_organizer_estimate_18,afrikaburn,2024,population,~10000,organizer_estimate,https://www.afrikaburn.org/event/event-archive/,organizer_archive,2026-11-26,high,,Organizer participant count.
+kiwiburn_2007_attendance_19,kiwiburn,2007,population,145,attendance,https://kiwiburn.com/wp-content/uploads/2018/08/KB18-Afterburn-Report.pdf,afterburn_report,2026-11-26,high,,Population Growth table.
+kiwiburn_2008_attendance_20,kiwiburn,2008,population,182,attendance,https://kiwiburn.com/wp-content/uploads/2018/08/KB18-Afterburn-Report.pdf,afterburn_report,2026-11-26,high,,Population Growth table.
+kiwiburn_2009_attendance_21,kiwiburn,2009,population,250,attendance,https://kiwiburn.com/wp-content/uploads/2018/08/KB18-Afterburn-Report.pdf,afterburn_report,2026-11-26,high,,Population Growth table.
+kiwiburn_2010_attendance_22,kiwiburn,2010,population,450,attendance,https://kiwiburn.com/wp-content/uploads/2018/08/KB18-Afterburn-Report.pdf,afterburn_report,2026-11-26,high,,Population Growth table.
+kiwiburn_2011_attendance_23,kiwiburn,2011,population,530,attendance,https://kiwiburn.com/wp-content/uploads/2018/08/KB18-Afterburn-Report.pdf,afterburn_report,2026-11-26,high,,Population Growth table.
+kiwiburn_2012_attendance_24,kiwiburn,2012,population,536,attendance,https://kiwiburn.com/wp-content/uploads/2018/08/KB18-Afterburn-Report.pdf,afterburn_report,2026-11-26,high,,Population Growth table.
+kiwiburn_2013_attendance_25,kiwiburn,2013,population,754,attendance,https://kiwiburn.com/wp-content/uploads/2018/08/KB18-Afterburn-Report.pdf,afterburn_report,2026-11-26,high,,Population Growth table.
+kiwiburn_2014_attendance_26,kiwiburn,2014,population,783,attendance,https://kiwiburn.com/wp-content/uploads/2018/08/KB18-Afterburn-Report.pdf,afterburn_report,2026-11-26,high,,Population Growth table.
+kiwiburn_2015_attendance_27,kiwiburn,2015,population,954,attendance,https://kiwiburn.com/wp-content/uploads/2018/08/KB18-Afterburn-Report.pdf,afterburn_report,2026-11-26,high,,Population Growth table.
+kiwiburn_2016_attendance_28,kiwiburn,2016,population,1485,attendance,https://kiwiburn.com/wp-content/uploads/2018/08/KB18-Afterburn-Report.pdf,afterburn_report,2026-11-26,high,,Population Growth table.
+kiwiburn_2017_attendance_29,kiwiburn,2017,population,1635,attendance,https://kiwiburn.com/wp-content/uploads/2018/08/KB18-Afterburn-Report.pdf,afterburn_report,2026-11-26,high,,Population Growth table.
+kiwiburn_2018_attendance_30,kiwiburn,2018,population,1809,attendance,https://kiwiburn.com/wp-content/uploads/2018/08/KB18-Afterburn-Report.pdf,afterburn_report,2026-11-26,high,,Population Growth table.
+nowhere_2023_attendance_31,nowhere,2023,population,2670,attendance,https://www.goingnowhere.org/wp-content/uploads/2023/12/nowhere-census-2023.pdf,organizer_census,2026-11-26,high,,Organizer participant count.
+kiwiburn_2010_tickets_sold_32,kiwiburn,2010,population,405,tickets_sold,https://kiwiburn.com/wp-content/uploads/2021/02/KB20-Afterburn-Report.pdf,afterburn_report,2026-11-26,high,,Retrospective adult-ticket table.
+kiwiburn_2018_tickets_sold_33,kiwiburn,2018,population,1811,tickets_sold,https://kiwiburn.com/wp-content/uploads/2021/02/KB20-Afterburn-Report.pdf,afterburn_report,2026-11-26,high,,Retrospective adult-ticket table.
+kiwiburn_2018_tickets_sold_34,kiwiburn,2018,population,1809,tickets_sold,https://kiwiburn.com/wp-content/uploads/2018/08/KB18-Afterburn-Report.pdf,afterburn_report,2026-11-26,high,,Ticketing Break Down table.
+nowhere_2023_tickets_sold_35,nowhere,2023,population,2980,tickets_sold,https://www.goingnowhere.org/wp-content/uploads/2023/12/nowhere-census-2023.pdf,organizer_census,2026-11-26,high,,
