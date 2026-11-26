@@ -1,0 +1,6 @@
+event_id,year,location,lat,lon,population,population_metric,confidence,status,source_url
+burning_man,1986,"Baker Beach, San Francisco, California, USA",,,35,attendance,high,held,https://history.burningman.org/timeline/1986/
+burning_flipside,1998,"Austin region, Texas, USA",,,30,attendance,high,precursor_held,https://history.burningman.org/timeline/1998/
+element11,1998,"Stansbury Island, Utah, USA",,,8,attendance,high,precursor_held,https://www.element11.org/history/timeline/
+element11,1999,"West Utah / Sun Tunnels area, Utah, USA",,,70,organizer_estimate,high,held,https://www.element11.org/history/timeline/
+afrikaburn,2007,"Tankwa Karoo, South Africa",,,1000,organizer_estimate,high,held,https://www.afrikaburn.com/event/event-archive/

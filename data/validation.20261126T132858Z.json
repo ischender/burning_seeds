@@ -1,0 +1,19 @@
+{
+  "schema_errors": [],
+  "errors": [],
+  "warnings": [
+    "editions.csv:2: missing coordinates for burning_man 1986.",
+    "editions.csv:3: missing coordinates for burning_flipside 1998.",
+    "editions.csv:4: missing coordinates for element11 1998.",
+    "editions.csv:5: missing coordinates for element11 1999.",
+    "editions.csv:6: missing coordinates for afrikaburn 2007."
+  ],
+  "stats": {
+    "events": 4,
+    "editions": 5,
+    "observations": 1,
+    "editions_missing_coords": 5,
+    "conflicting_event_year_metrics": 0
+  },
+  "conflicts": []
+}

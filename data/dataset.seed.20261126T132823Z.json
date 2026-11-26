@@ -1,0 +1,118 @@
+{
+  "events": [
+    {
+      "event_id": "burning_man",
+      "name": "Burning Man",
+      "country": "USA",
+      "first_year": "1986",
+      "parent_event_id": "",
+      "official_status": "origin",
+      "notes": "Baker Beach origin; later moved to Nevada."
+    },
+    {
+      "event_id": "burning_flipside",
+      "name": "Burning Flipside",
+      "country": "USA",
+      "first_year": "1998",
+      "parent_event_id": "",
+      "official_status": "official_regional",
+      "notes": "1998 precursor/name: Burning Man Texas; Flipside name from 1999."
+    },
+    {
+      "event_id": "element11",
+      "name": "Element 11",
+      "country": "USA",
+      "first_year": "1998",
+      "parent_event_id": "",
+      "official_status": "period_specific",
+      "notes": "1998 precursor gathering; first Synorgy regional burn in 1999; renamed Element 11 in 2006."
+    },
+    {
+      "event_id": "afrikaburn",
+      "name": "AfrikaBurn",
+      "country": "South Africa",
+      "first_year": "2007",
+      "parent_event_id": "",
+      "official_status": "official_regional",
+      "notes": ""
+    }
+  ],
+  "editions": [
+    {
+      "event_id": "burning_man",
+      "year": "1986",
+      "location": "Baker Beach, San Francisco, California, USA",
+      "lat": "",
+      "lon": "",
+      "population": "35",
+      "population_metric": "attendance",
+      "confidence": "high",
+      "status": "held",
+      "source_url": "https://history.burningman.org/timeline/1986/"
+    },
+    {
+      "event_id": "burning_flipside",
+      "year": "1998",
+      "location": "Austin region, Texas, USA",
+      "lat": "",
+      "lon": "",
+      "population": "30",
+      "population_metric": "attendance",
+      "confidence": "high",
+      "status": "precursor_held",
+      "source_url": "https://history.burningman.org/timeline/1998/"
+    },
+    {
+      "event_id": "element11",
+      "year": "1998",
+      "location": "Stansbury Island, Utah, USA",
+      "lat": "",
+      "lon": "",
+      "population": "8",
+      "population_metric": "attendance",
+      "confidence": "high",
+      "status": "precursor_held",
+      "source_url": "https://www.element11.org/history/timeline/"
+    },
+    {
+      "event_id": "element11",
+      "year": "1999",
+      "location": "West Utah / Sun Tunnels area, Utah, USA",
+      "lat": "",
+      "lon": "",
+      "population": "70",
+      "population_metric": "organizer_estimate",
+      "confidence": "high",
+      "status": "held",
+      "source_url": "https://www.element11.org/history/timeline/"
+    },
+    {
+      "event_id": "afrikaburn",
+      "year": "2007",
+      "location": "Tankwa Karoo, South Africa",
+      "lat": "",
+      "lon": "",
+      "population": "1000",
+      "population_metric": "organizer_estimate",
+      "confidence": "high",
+      "status": "held",
+      "source_url": "https://www.afrikaburn.com/event/event-archive/"
+    }
+  ],
+  "observations": [
+    {
+      "observation_id": "obs_bm_1990_transition",
+      "event_id": "burning_man",
+      "year": "1990",
+      "field": "population",
+      "value": "350",
+      "metric": "headline_population",
+      "source_url": "https://history.burningman.org/timeline/",
+      "source_type": "official_timeline",
+      "retrieved_at": "",
+      "confidence": "high",
+      "raw_text": "",
+      "notes": "Keep separate from the smaller first Black Rock Desert gathering count documented in historical narrative."
+    }
+  ]
+}

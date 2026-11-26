@@ -1,0 +1,2 @@
+observation_id,event_id,year,field,value,metric,source_url,source_type,retrieved_at,confidence,raw_text,notes
+obs_bm_1990_transition,burning_man,1990,population,350,headline_population,https://history.burningman.org/timeline/,official_timeline,,high,,Keep separate from the smaller first Black Rock Desert gathering count documented in historical narrative.
