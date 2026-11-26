@@ -2,3 +2,8 @@
 __pycache__/
 data/geocode_cache.json
 exports/
+
+.venv/
+
+viz/node_modules/
+viz/dist/

@@ -1,7 +1,7 @@
 # Burning Seeds
 
 Build a reproducible historical dataset for mapping Burning Man and related
-events over time. See burner-seed-handoff.md for the recovered research and
+events over time. See docs/burner-seed-handoff.md for the recovered research and
 the primary-source queue.
 
 - `events.csv` identifies events. Record parent IDs only for documented lineage.
