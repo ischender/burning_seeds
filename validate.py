@@ -6,53 +6,38 @@ from __future__ import annotations
 import argparse
 import csv
 import json
+import re
 from collections import defaultdict
+from datetime import date
 from pathlib import Path
 
 from starter_utils import (
+    EDITION_FIELDS,
+    EVENT_FIELDS,
+    LOCATION_PRECISIONS,
+    OBS_FIELDS,
     candidate_path,
     ensure_parent,
     utc_stamp,
 )
 
 
-EVENT_REQUIRED = [
-    "event_id",
-    "name",
-    "country",
-    "first_year",
-    "parent_event_id",
-    "official_status",
-    "notes",
-]
+# Dates and precision arrived after the first candidate batches; check them when present.
+EDITION_OPTIONAL = {
+    "start_date",
+    "end_date",
+    "location_precision",
+}
+
+EVENT_REQUIRED = EVENT_FIELDS
 
 EDITION_REQUIRED = [
-    "event_id",
-    "year",
-    "location",
-    "lat",
-    "lon",
-    "population",
-    "population_metric",
-    "confidence",
-    "status",
-    "source_url",
+    x
+    for x in EDITION_FIELDS
+    if x not in EDITION_OPTIONAL
 ]
 
-OBS_REQUIRED = [
-    "observation_id",
-    "event_id",
-    "year",
-    "field",
-    "value",
-    "metric",
-    "source_url",
-    "source_type",
-    "retrieved_at",
-    "confidence",
-    "raw_text",
-    "notes",
-]
+OBS_REQUIRED = OBS_FIELDS
 
 VALID_CONFIDENCE = {
     "",
@@ -116,6 +101,69 @@ def parse_float(value: str):
         ValueError,
     ):
         return None
+
+
+def parse_edition_date(value: str):
+    """Return (year, sortable tuple) for YYYY-MM-DD or YYYY-MM, else None."""
+    match = re.fullmatch(r"(\d{4})-(\d{2})(?:-(\d{2}))?", value)
+
+    if not match:
+        return None
+
+    year, month = int(match[1]), int(match[2])
+
+    try:
+        date(year, month, int(match[3] or 1))
+    except ValueError:
+        return None
+
+    return year, (year, month, int(match[3] or 0))
+
+
+def edition_date_findings(
+    idx: int,
+    row: dict[str, str],
+) -> tuple[list[str], list[str]]:
+    """Validate the optional date and location-precision columns of one edition."""
+    errors = []
+    warnings = []
+    parsed = {}
+
+    for field in ("start_date", "end_date"):
+        value = row.get(field, "")
+
+        if not value:
+            continue
+
+        parsed[field] = parse_edition_date(value)
+
+        if parsed[field] is None:
+            errors.append(f"editions.csv:{idx}: invalid {field}={value!r}")
+
+    start, end = parsed.get("start_date"), parsed.get("end_date")
+
+    # Month-precision dates sort before every day in that month, so compare only
+    # to the precision both values share.
+    if start and end:
+        shared = min(len(row["start_date"]), len(row["end_date"]))
+
+        if row["end_date"][:shared] < row["start_date"][:shared]:
+            errors.append(f"editions.csv:{idx}: end_date precedes start_date")
+
+    year = row.get("year", "")
+
+    if start and year.isdigit() and start[0] != int(year):
+        warnings.append(f"editions.csv:{idx}: start_date year differs from {year}")
+
+    precision = row.get("location_precision", "")
+
+    if precision and precision not in LOCATION_PRECISIONS:
+        warnings.append(f"editions.csv:{idx}: nonstandard location_precision={precision!r}")
+
+    if precision and not (row.get("lat") and row.get("lon")):
+        warnings.append(f"editions.csv:{idx}: location_precision without coordinates")
+
+    return errors, warnings
 
 
 def main() -> int:
@@ -387,6 +435,17 @@ def main() -> int:
                 f"population={pop!r}; "
                 "verify semantics."
             )
+
+        (
+            date_errors,
+            date_warnings,
+        ) = edition_date_findings(
+            idx,
+            row,
+        )
+
+        report["errors"].extend(date_errors)
+        report["warnings"].extend(date_warnings)
 
         if not lat or not lon:
             report[

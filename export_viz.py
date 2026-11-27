@@ -11,25 +11,42 @@ def rows(path):
         return list(csv.DictReader(stream))
 
 
+# Direct counts; every other metric (organizer estimates, catalogue sizes,
+# capacities, lower bounds) is shown as an estimate.
+COUNTED_METRICS = {"attendance", "gate_count", "tickets_sold", "tickets_used"}
+TIMELINE_BATCHES = ("seed", "research", "recovered")
+
+
+def batch_paths(directory, table, *, catalogue):
+    """Return batch CSVs oldest first, so newer evidence replaces older event-years."""
+    if catalogue:
+        return sorted(directory.glob(f"catalogue_2019.{table}.*.csv"))
+    paths = [path for batch in TIMELINE_BATCHES for path in directory.glob(f"{table}.{batch}.*.csv")]
+    return sorted(paths, key=lambda path: (path.name.split(".")[2], path.name))
+
+
+def reported_figures(candidates):
+    """Every figure reported for one event-year, with its own metric and source."""
+    return [{
+        "population": int(row["population"]),
+        "metric": row.get("population_metric", ""),
+        "estimate": row.get("population_metric", "") not in COUNTED_METRICS,
+        "source_url": row.get("source_url", ""),
+        "confidence": row.get("confidence", ""),
+    } for row in candidates if row["population"]]
+
+
 def export(directory, *, catalogue=False):
     events = {}
     editions = {}
-    batches = (
-        (("catalogue_2019.events.*.csv", "catalogue_2019.editions.*.csv"),)
-        if catalogue else tuple(
-            (f"events.{batch}.*.csv", f"editions.{batch}.*.csv")
-            for batch in ("seed", "research", "recovered")
-        )
-    )
-    for event_pattern, edition_pattern in batches:
-        for path in sorted(directory.glob(event_pattern)):
-            events.update((row["event_id"], row) for row in rows(path))
-        for path in sorted(directory.glob(edition_pattern)):
-            candidates = defaultdict(list)
-            for row in rows(path):
-                if (row["status"] == "catalogue_snapshot") == catalogue:
-                    candidates[row["event_id"], int(row["year"])].append(row)
-            editions.update(candidates)
+    for path in batch_paths(directory, "events", catalogue=catalogue):
+        events.update((row["event_id"], row) for row in rows(path))
+    for path in batch_paths(directory, "editions", catalogue=catalogue):
+        candidates = defaultdict(list)
+        for row in rows(path):
+            if (row["status"] == "catalogue_snapshot") == catalogue:
+                candidates[row["event_id"], int(row["year"])].append(row)
+        editions.update(candidates)
 
     location_path = directory / ("catalogue_locations.csv" if catalogue else "viz_locations.csv")
     locations = rows(location_path) if location_path.is_file() else []
@@ -46,19 +63,32 @@ def export(directory, *, catalogue=False):
             row for row in locations
             if row["event_id"] == event_id and int(row["start"]) <= year <= int(row["end"])
         ), {})
-        lat = edition["lat"] or location.get("lat")
-        lon = edition["lon"] or location.get("lon")
+        if edition["lat"] and edition["lon"]:
+            # The edition's own fix wins, so its text and source must win too.
+            location = {"lat": edition["lat"], "lon": edition["lon"],
+                        "precision": edition.get("location_precision", "")}
+        lat = location.get("lat")
+        lon = location.get("lon")
+        precision = location.get("precision", "")
         result.append({
             **edition,
             "year": year,
             "name": event["name"],
             "country": event["country"],
+            "first_year": int(event["first_year"]) if event.get("first_year") else None,
+            "parent_event_id": event.get("parent_event_id", ""),
+            "official_status": event.get("official_status", ""),
+            "event_notes": event.get("notes", ""),
+            "reported_figures": reported_figures(candidates),
             "population": figures[0] if len(figures) == 1 else None,
             "conflicting_populations": figures if len(figures) > 1 else [],
+            "population_estimate": bool(figures) and metric not in COUNTED_METRICS,
+            "start_date": edition.get("start_date", ""),
+            "end_date": edition.get("end_date", ""),
             "location": (edition.get("location", "") if catalogue else
                          location.get("location", edition.get("location", ""))),
             "location_source": location.get("source_url", ""),
-            "location_precision": location.get("precision", ""),
+            "location_precision": precision,
             "map_reference": location.get("location", ""),
             "lat": float(lat) if lat else None,
             "lon": float(lon) if lon else None,

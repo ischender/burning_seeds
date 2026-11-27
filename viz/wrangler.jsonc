@@ -1,0 +1,15 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  // Static assets only: no Worker script. Cloudflare serves the Vite build in dist/.
+  "name": "burning-seeds",
+  "compatibility_date": "2026-11-20",
+  "assets": {
+    "directory": "./dist"
+  },
+  "workers_dev": true,
+  // Every uploaded version gets a URL; `make staging` and Workers Builds add a per-branch alias:
+  // https://<branch>-burning-seeds.<account-subdomain>.workers.dev
+  "preview_urls": true,
+  // Cloudflare creates the DNS record and certificate for a custom domain; don't add one by hand.
+  "routes": [{ "pattern": "burningseeds.wetwarecraft.com", "custom_domain": true }]
+}

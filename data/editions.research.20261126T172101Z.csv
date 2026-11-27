@@ -1,0 +1,182 @@
+event_id,year,location,lat,lon,population,population_metric,confidence,status,source_url,start_date,end_date,location_precision
+freezerburn,2019,"Rosanky, Texas, USA",29.92939,-97.29360,,,medium,held,https://web.archive.org/web/2019/https://fzbtx.com/,2019-01-18,2019-01-21,town
+freezerburn,2020,"Texas, USA",,,,,medium,held,https://web.archive.org/web/2020/https://fzbtx.com/,,,
+freezerburn,2021,,,,,,high,cancelled,https://web.archive.org/web/2020/https://fzbtx.com/,,,
+freezerburn,2022,"Valkyrie Ranch, Paige, Texas, USA",30.21165,-97.11328,,,high,cancelled,https://web.archive.org/web/2022/https://fzbtx.com/,2022-01-14,2022-01-17,town
+freezerburn,2023,"Valkyrie Ranch, Paige, Texas, USA",30.21165,-97.11328,,,high,held,https://web.archive.org/web/2023/https://fzbtx.com/,2023-01-13,2023-01-16,town
+freezerburn,2024,"Valkyrie Ranch, Paige, Texas, USA",30.21165,-97.11328,,,high,held,https://web.archive.org/web/2024/https://fzbtx.com/,2024-01-12,2024-01-15,town
+freezerburn,2025,"Valkyrie Ranch, Paige, Texas, USA",30.21165,-97.11328,,,high,held,https://web.archive.org/web/2025/https://fzbtx.com/,2025-01-17,2025-01-20,town
+zum_brennenden_baren,2019,"Schloss Beesenstedt, Salzatal near Halle, Sachsen-Anhalt, Germany",51.56712,11.73376,,,medium,held,https://fyb.events/burns/zum-brennenden-baren,2019-03-07,2019-03-10,town
+zum_brennenden_baren,2022,"Schloss Beesenstedt, Salzatal near Halle, Sachsen-Anhalt, Germany",51.56712,11.73376,,,medium,held,https://fyb.events/burns/zum-brennenden-baren,2022-05-12,2022-05-15,town
+zum_brennenden_baren,2026,"Schloss Beesenstedt, Salzatal near Halle, Sachsen-Anhalt, Germany",51.56712,11.73376,,,medium,scheduled_or_unverified,https://fyb.events/burns/zum-brennenden-baren,2026-03-05,2026-03-08,town
+bequinox,2018,"Seraphim Ranch, California City, California, USA",35.12593,-117.95987,,,high,held,https://web.archive.org/web/2018/https://www.bequinox.com/,2018-03-14,2018-03-18,town
+bequinox,2019,"Seraphim Ranch, California City, California, USA",35.12593,-117.95987,,,high,held,https://web.archive.org/web/2019/https://www.bequinox.com/,2019-03-20,2019-03-24,town
+bequinox,2022,"Seraphim Ranch, California City, California, USA",35.12593,-117.95987,,,high,held,https://web.archive.org/web/2022/https://www.bequinox.com/,2022-04-20,2022-04-24,town
+bequinox,2023,"Seraphim Ranch, California City, California, USA",35.12593,-117.95987,,,high,held,https://web.archive.org/web/2023/https://www.bequinox.com/,2023-03-20,2023-03-26,town
+bequinox,2024,"Seraphim Ranch, California City, California, USA",35.12593,-117.95987,,,high,held,https://web.archive.org/web/2024/https://www.bequinox.com/,2024-06-05,2024-06-09,town
+bequinox,2025,"Seraphim Ranch, California City, California, USA",35.12593,-117.95987,,,high,held,https://web.archive.org/web/2025/https://www.bequinox.com/,2025-05-07,2025-05-11,town
+bequinox,2026,"Seraphim Ranch, California City, California, USA",35.12593,-117.95987,,,high,scheduled_or_unverified,https://www.bequinox.com/,2026-05-06,2026-05-10,town
+bequinox,2020,"Seraphim Ranch, California City, California, USA",35.12593,-117.95987,,,high,cancelled,https://web.archive.org/web/2021/https://www.bequinox.com/,2020-03-18,2020-03-22,town
+bequinox,2021,,,,,,high,cancelled,https://web.archive.org/web/2021/https://www.bequinox.com/,,,
+almaburn,2019,"New Braunfels, Texas, USA",29.70283,-98.12573,,,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-04-04,2019-04-08,town
+almaburn,2022,"New Braunfels, Texas, USA",29.70283,-98.12573,,,medium,held,https://web.archive.org/web/2022/https://www.almaburn.com/,2022-03-31,2022-04-04,town
+almaburn,2024,"New Braunfels, Texas, USA",29.70283,-98.12573,,,medium,held,https://web.archive.org/web/2024/https://www.almaburn.com/,2024-04-04,2024-04-10,town
+figment_alpha,2013,"Camp Ramblewood, Darlington, Maryland, USA",39.64444,-76.20428,,,high,held,https://web.archive.org/web/2013/https://www.figmentproject.org/,2013-04-26,2013-04-28,town
+figment_alpha,2014,"Camp Ramblewood, Darlington, Maryland, USA",39.64444,-76.20428,,,high,held,https://web.archive.org/web/2014/https://www.figmentproject.org/alpha,2014-04-25,2014-04-27,town
+figment_alpha,2015,"Camp Ramblewood, Darlington, Maryland, USA",39.64444,-76.20428,,,high,held,https://web.archive.org/web/2015/https://www.figmentproject.org/alpha,2015-04-24,2015-04-26,town
+figment_alpha,2016,"Camp Ramblewood, Darlington, Maryland, USA",39.64444,-76.20428,,,high,held,https://web.archive.org/web/2016/https://www.figmentproject.org/alpha,2016-04-15,2016-04-17,town
+figment_alpha,2017,"Camp Ramblewood, Darlington, Maryland, USA",39.64444,-76.20428,,,high,held,https://web.archive.org/web/2017/https://www.figmentproject.org/alpha,2017-04-21,2017-04-23,town
+figment_alpha,2026,"Camp Ramblewood, Darlington, Maryland, USA",39.64444,-76.20428,,,high,scheduled_or_unverified,https://www.figmentproject.org/alpha,2026-04-23,2026-04-26,town
+unscruz,2015,"Santa Cruz County Fairgrounds, Watsonville, California, USA",36.90893,-121.75579,,,high,held,https://web.archive.org/web/2015/https://unscruz.com/,2015-05-01,2015-05-03,town
+unscruz,2016,"Santa Cruz County Fairgrounds, Watsonville, California, USA",36.90893,-121.75579,,,high,held,https://web.archive.org/web/2016/https://unscruz.com/,2016-05-06,2016-05-08,town
+unscruz,2018,"Santa Cruz County Fairgrounds, Watsonville, California, USA",36.90893,-121.75579,,,high,held,https://web.archive.org/web/2018/https://unscruz.com/,2018-05-04,2018-05-06,town
+unscruz,2019,"Santa Cruz County Fairgrounds, Watsonville, California, USA",36.90893,-121.75579,,,high,held,https://web.archive.org/web/2019/https://unscruz.com/,2019-05-02,2019-05-05,town
+catharsis_on_the_mall,2016,"National Mall, Washington, D.C., USA",38.89510,-77.03638,,,high,held,https://web.archive.org/web/2016/https://catharsisonthemall.com/,2016-11-11,2016-11-13,town
+catharsis_on_the_mall,2019,"National Mall, Washington, D.C., USA",38.89510,-77.03638,,,high,held,https://web.archive.org/web/2019/https://catharsisonthemall.com/,2019-05-03,2019-05-05,town
+hyperborea,2017,"Freedom Fields Naturist Ranch, Tamworth, Ontario, Canada",44.48706,-76.99451,430,organizer_estimate,medium,held,https://fyb.events/burns/hyperborea,,,town
+hyperborea,2018,"Stone Mills Township near Tamworth, Ontario, Canada",44.48706,-76.99451,,,medium,held,https://fyb.events/burns/hyperborea,2018-05-17,2018-05-21,town
+hyperborea,2019,"Near Tamworth, Ontario, Canada",44.48706,-76.99451,,,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-05-16,2019-05-20,town
+hyperborea,2020,,,,,,high,cancelled,https://web.archive.org/web/2020/https://www.tohyperborea.ca/,,,
+hyperborea,2022,"Near Tamworth, Ontario, Canada",44.48706,-76.99451,,,high,held,https://web.archive.org/web/2022/https://www.tohyperborea.ca/,2022-07-28,2022-08-01,town
+hyperborea,2023,"Near Tamworth, Ontario, Canada",44.48706,-76.99451,,,high,held,https://web.archive.org/web/2023/https://www.tohyperborea.ca/,2023-05-18,2023-05-22,town
+soak,2005,"Tidewater Falls, Tidewater, Oregon, USA",44.41178,-123.90156,80,organizer_estimate,medium,held,https://fyb.events/burns/soak,,,town
+soak,2006,"Miller Brothers Ranch, Salem, Oregon, USA",44.93916,-123.03312,,,medium,held,https://web.archive.org/web/2020/http://soakpdx.com/history/,,,town
+soak,2007,"Miller Brothers Ranch, Salem, Oregon, USA",44.93916,-123.03312,,,medium,held,https://web.archive.org/web/2020/http://soakpdx.com/history/,,,town
+soak,2008,"Miller Brothers Ranch, Salem, Oregon, USA",44.93916,-123.03312,,,medium,held,https://web.archive.org/web/2020/http://soakpdx.com/history/,,,town
+soak,2009,"Miller Brothers Ranch, Salem, Oregon, USA",44.93916,-123.03312,,,medium,held,https://web.archive.org/web/2020/http://soakpdx.com/history/,,,town
+soak,2010,"Miller Brothers Ranch, Salem, Oregon, USA",44.93916,-123.03312,,,medium,held,https://web.archive.org/web/2020/http://soakpdx.com/history/,,,town
+soak,2011,"Tidewater Falls, Tidewater, Oregon, USA",44.41178,-123.90156,,,medium,held,https://web.archive.org/web/2020/http://soakpdx.com/history/,,,town
+soak,2012,"Prindel Creek, Tidewater, Oregon, USA",44.41178,-123.90156,,,medium,held,https://web.archive.org/web/2020/http://soakpdx.com/history/,,,town
+soak,2013,"Prindel Creek, Tidewater, Oregon, USA",44.41178,-123.90156,,,medium,held,https://web.archive.org/web/2020/http://soakpdx.com/history/,,,town
+soak,2014,"Tidewater Falls, Tidewater, Oregon, USA",44.41178,-123.90156,,,medium,held,https://web.archive.org/web/2020/http://soakpdx.com/history/,,,town
+soak,2015,"Justesen Ranch, White River Canyon, Tygh Valley, Oregon, USA",45.24734,-121.17312,,,medium,held,https://web.archive.org/web/2020/http://soakpdx.com/history/,,,town
+soak,2016,"Justesen Ranch, White River Canyon, Tygh Valley, Oregon, USA",45.24734,-121.17312,,,medium,held,https://web.archive.org/web/2020/http://soakpdx.com/history/,,,town
+soak,2017,"Justesen Ranch, White River Canyon, Tygh Valley, Oregon, USA",45.24734,-121.17312,,,high,held,https://web.archive.org/web/2017/https://soakpdx.com/,2017-05-25,2017-05-29,town
+soak,2018,"Justesen Ranch, White River Canyon, Tygh Valley, Oregon, USA",45.24734,-121.17312,1800,organizer_estimate,high,held,https://web.archive.org/web/2018/https://soakpdx.com/,2018-05-24,,town
+soak,2019,"Justesen Ranch, White River Canyon, Tygh Valley, Oregon, USA",45.24734,-121.17312,,,high,held,https://web.archive.org/web/2019/https://soakpdx.com/,2019-05-23,2019-05-27,town
+soak,2020,"Justesen Ranch, White River Canyon, Tygh Valley, Oregon, USA",45.24734,-121.17312,,,low,cancelled,https://web.archive.org/web/2020/https://soakpdx.com/,2020-05-21,2020-05-25,town
+soak,2021,,,,,,high,cancelled,https://web.archive.org/web/2021/https://soakpdx.com/,,,
+soak,2022,"Tygh Valley, Oregon, USA",45.24734,-121.17312,,,medium,held,https://fyb.events/burns/soak,,,town
+soak,2023,"Tygh Valley, Oregon, USA",45.24734,-121.17312,2000,organizer_estimate,high,held,https://web.archive.org/web/2023/https://soakpdx.com/,2023-05-25,2023-05-29,town
+soak,2024,"Tygh Valley, Oregon, USA",45.24734,-121.17312,2300,organizer_estimate,high,held,https://web.archive.org/web/2024/https://soakpdx.com/,2024-05-23,2024-05-27,town
+soak,2025,"Tygh Valley, Oregon, USA",45.24734,-121.17312,,,medium,held,https://fyb.events/burns/soak,,,town
+soak,2026,"Tygh Valley, Oregon, USA",45.24734,-121.17312,,,medium,held,https://fyb.events/burns/soak,2026-05-21,2026-05-25,town
+ignite,2015,"Stuart, Virginia, USA",36.64221,-80.26982,524,attendance,high,held,https://web.archive.org/web/2020/https://ignite-burn.com/about/organization-transparency/afterburn-reports/2015-afterburn-report/,,,town
+ignite,2016,"Stuart, Virginia, USA",36.64221,-80.26982,706,tickets_sold,high,held,https://web.archive.org/web/2020/https://ignite-burn.com/about/organization-transparency/afterburn-reports/2016-afterburn-report/,2016-05-27,2016-05-30,town
+ignite,2017,"Stuart, Virginia, USA",36.64221,-80.26982,765,tickets_sold,high,held,https://web.archive.org/web/2020/https://ignite-burn.com/about/organization-transparency/afterburn-reports/2017-afterburn-report/,2017-05-26,2017-05-29,town
+ignite,2018,"Stuart, Virginia, USA",36.64221,-80.26982,,,high,held,https://web.archive.org/web/2019/https://ignite-burn.com/,2018-05-25,2018-05-28,town
+ignite,2019,"Stuart, Virginia, USA",36.64221,-80.26982,,,high,held,https://web.archive.org/web/2019/https://ignite-burn.com/,2019-05-24,2019-05-27,town
+ignite,2022,"Stuart, Virginia, USA",36.64221,-80.26982,,,high,held,https://web.archive.org/web/2019/https://ignite-burn.com/,2022-05-27,2022-05-30,town
+ignite,2023,"Stuart, Virginia, USA",36.64221,-80.26982,,,high,held,https://web.archive.org/web/2019/https://ignite-burn.com/,2023-05-25,2023-05-29,town
+ignite,2024,"Stuart, Virginia, USA",36.64221,-80.26982,,,high,held,https://web.archive.org/web/2019/https://ignite-burn.com/,2024-05-23,2024-05-27,town
+ignite,2025,"Stuart, Virginia, USA",36.64221,-80.26982,,,high,held,https://web.archive.org/web/2019/https://ignite-burn.com/,2025-05-23,2025-05-26,town
+ignite,2020,,,,,,high,cancelled,https://web.archive.org/web/2019/https://ignite-burn.com/,,,
+ignite,2021,,,,,,high,cancelled,https://web.archive.org/web/2019/https://ignite-burn.com/,2021-05-28,2021-05-31,
+italian_burning_boots,2016,"Rufina, Toscana, Italy",43.82667,11.49008,,,high,held,https://web.archive.org/web/2016/https://burningboots.it/,2016-06-02,2016-06-05,town
+italian_burning_boots,2017,"Rufina, Toscana, Italy",43.82667,11.49008,,,high,held,https://web.archive.org/web/2017/https://burningboots.it/,2017-06-01,2017-06-04,town
+italian_burning_boots,2018,"Rufina, Toscana, Italy",43.82667,11.49008,,,high,held,https://web.archive.org/web/2018/https://burningboots.it/,2018-05-31,2018-06-03,town
+gateway_burn,2014,"Near Belle, Missouri, USA",38.28569,-91.72251,,,high,held,https://web.archive.org/web/2014/https://gatewayburners.org/,2014-06-12,2014-06-15,town
+gateway_burn,2015,"Near Belle, Missouri, USA",38.28569,-91.72251,,,high,held,https://web.archive.org/web/2015/https://gatewayburners.org/,2015-06-11,2015-06-14,town
+gateway_burn,2016,"Water Mountain on the Gasconade River near Belle, Missouri, USA",38.28569,-91.72251,,,high,held,https://web.archive.org/web/2016/https://gatewayburners.org/,2016-06-09,2016-06-12,town
+gateway_burn,2019,"Near Belle, Missouri, USA",38.28569,-91.72251,,,high,held,https://web.archive.org/web/2019/https://gatewayburners.org/,2019-06-06,2019-06-10,town
+gateway_burn,2020,"Water Mountain, near Belle, Missouri, USA",38.28569,-91.72251,,,high,cancelled,https://web.archive.org/web/2020/https://gatewayburners.org/,2020-06-11,2020-06-14,town
+gateway_burn,2021,,,,,,high,cancelled,https://web.archive.org/web/2021/https://gatewayburners.org/,,,
+to_the_moon,2019,"Sneedville, Tennessee, USA",36.52972,-83.21755,,,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-06-12,2019-06-16,town
+to_the_moon,2020,,,,,,high,cancelled,https://tothemoonburn.org/Records/archives,,,
+to_the_moon,2021,,,,,,high,cancelled,https://tothemoonburn.org/Records/archives,,,
+to_the_moon,2025,"Catoosa Event Center, Jamestown, Tennessee, USA",36.33557,-84.88159,,,high,held,https://tothemoonburn.org/,2025-05-29,2025-06-02,site
+to_the_moon,2026,"Catoosa Event Center, Jamestown, Tennessee, USA",36.33557,-84.88159,,,high,scheduled_or_unverified,https://tothemoonburn.org/,2026-06-04,2026-06-07,site
+tropical_burn,2019,"Baia Formosa dunes, Rio Grande do Norte, Brazil",-6.36919,-35.00637,,,medium,held,https://fyb.events/burns/tropical-burn,2019-06-19,2019-06-25,town
+freezer_burn,2011,"Near Ponoka, Alberta, Canada",52.67443,-113.57714,,,high,held,https://web.archive.org/web/2024/https://www.freezerburn.org/,2011-06-24,2011-06-26,town
+freezer_burn,2012,"Near Ponoka, Alberta, Canada",52.67443,-113.57714,,,high,held,https://web.archive.org/web/2024/https://www.freezerburn.org/,2012-06-22,2012-06-25,town
+freezer_burn,2013,"Near Ponoka, Alberta, Canada",52.67443,-113.57714,,,high,held,https://web.archive.org/web/2024/https://www.freezerburn.org/,2013-06-21,2013-06-24,town
+freezer_burn,2014,"Near Ponoka, Alberta, Canada",52.67443,-113.57714,,,high,held,https://web.archive.org/web/2024/https://www.freezerburn.org/,2014-06-20,2014-06-23,town
+freezer_burn,2015,"Near Ponoka, Alberta, Canada",52.67443,-113.57714,,,high,held,https://web.archive.org/web/2024/https://www.freezerburn.org/,2015-06-19,2015-06-22,town
+freezer_burn,2016,"Near Ponoka, Alberta, Canada",52.67443,-113.57714,,,high,held,https://web.archive.org/web/2024/https://www.freezerburn.org/,2016-06-17,2016-06-20,town
+freezer_burn,2019,"Near Ponoka, Alberta, Canada",52.67443,-113.57714,,,high,held,https://web.archive.org/web/2024/https://www.freezerburn.org/,2019-06-20,2019-06-24,town
+freezer_burn,2023,"Near Ponoka, Alberta, Canada",52.67443,-113.57714,,,high,held,https://web.archive.org/web/2024/https://www.freezerburn.org/,2023-06-22,2023-06-26,town
+freezer_burn,2024,"Near Ponoka, Alberta, Canada",52.67443,-113.57714,,,high,held,https://web.archive.org/web/2024/https://www.freezerburn.org/,2024-06-20,2024-06-24,town
+freezer_burn,2025,"Near Ponoka, Alberta, Canada",52.67443,-113.57714,,,high,held,https://web.archive.org/web/2024/https://www.freezerburn.org/,2025-06-19,2025-06-23,town
+freezer_burn,2020,"Near Ponoka, Alberta, Canada",52.67443,-113.57714,,,high,cancelled,https://web.archive.org/web/2021/https://www.freezerburn.org/,2020-06-18,2020-06-22,town
+freezer_burn,2021,,,,,,high,cancelled,https://web.archive.org/web/2021/https://www.freezerburn.org/,,,
+freezer_burn,2022,"Near Ponoka, Alberta, Canada",52.67443,-113.57714,,,medium,held,https://fyb.events/burns/freezer-burn,,,town
+freezer_burn,2026,"Near Ponoka, Alberta, Canada",52.67443,-113.57714,,,high,cancelled,https://web.archive.org/web/2026/https://www.freezerburn.org/,2026-06-18,2026-06-22,town
+montopia,2019,"Storm Castle Retreat, Gallatin Gateway, Montana, USA",45.44988,-111.22422,,,high,held,https://web.archive.org/web/2019/https://www.montopia.net/,2019-06-27,2019-06-30,area
+sunburn,2019,"Santa Fe, New Mexico, USA",35.68761,-105.93846,,,high,held,https://web.archive.org/web/2019/https://nmsunburn.com/,2019-07-04,2019-07-07,town
+sunburn,2020,,,,,,low,cancelled,https://web.archive.org/web/2021/https://nmsunburn.com/,,,
+sunburn,2021,,,,,,high,cancelled,https://web.archive.org/web/2021/https://nmsunburn.com/,,,
+sunburn,2023,"Roswell, New Mexico, USA",33.39433,-104.52295,,,high,held,https://web.archive.org/web/2023/https://nmsunburn.com/,2023-06-30,2023-07-03,town
+sunburn,2024,"Private land near I-25 exit 124, Socorro County, New Mexico, USA",34.05729,-106.89308,,,high,held,https://web.archive.org/web/2024/https://nmsunburn.com/,2024-07-04,2024-07-07,town
+sunburn,2025,"Socorro County, New Mexico, USA",34.05729,-106.89308,,,high,held,https://web.archive.org/web/2025/https://nmsunburn.com/,2025-07-03,2025-07-06,town
+burn_in_the_forest,2010,"Near Princeton, British Columbia, Canada",49.46046,-120.50797,,,high,held,https://web.archive.org/web/2024/https://burnintheforest.com/,2010-07-16,2010-07-18,town
+burn_in_the_forest,2011,"Near Princeton, British Columbia, Canada",49.46046,-120.50797,,,high,held,https://web.archive.org/web/2024/https://burnintheforest.com/,2011-07-08,2011-07-10,town
+burn_in_the_forest,2012,"Near Princeton, British Columbia, Canada",49.46046,-120.50797,,,high,held,https://web.archive.org/web/2024/https://burnintheforest.com/,2012-07-13,2012-07-15,town
+burn_in_the_forest,2013,"Near Princeton, British Columbia, Canada",49.46046,-120.50797,,,high,held,https://web.archive.org/web/2024/https://burnintheforest.com/,2013-07-11,2013-07-14,town
+burn_in_the_forest,2014,"Near Princeton, British Columbia, Canada",49.46046,-120.50797,,,high,held,https://web.archive.org/web/2024/https://burnintheforest.com/,2014-07-10,2014-07-13,town
+burn_in_the_forest,2017,"Near Princeton, British Columbia, Canada",49.46046,-120.50797,,,high,held,https://web.archive.org/web/2024/https://burnintheforest.com/,2017-07-13,2017-07-16,town
+burn_in_the_forest,2018,"Near Princeton, British Columbia, Canada",49.46046,-120.50797,,,high,held,https://web.archive.org/web/2024/https://burnintheforest.com/,2018-07-12,2018-07-15,town
+burn_in_the_forest,2019,"Snug Lake Amphitheatre, British Columbia, Canada",,,,,high,held,https://web.archive.org/web/2024/https://burnintheforest.com/,2019-07-18,2019-07-21,
+burn_in_the_forest,2023,"Merritt, British Columbia, Canada",50.11249,-120.78841,,,high,held,https://web.archive.org/web/2024/https://burnintheforest.com/,2023-07-26,2023-07-30,town
+burn_in_the_forest,2024,"Merritt, British Columbia, Canada",50.11249,-120.78841,,,high,held,https://web.archive.org/web/2024/https://burnintheforest.com/,2024-07-25,2024-07-29,town
+burn_in_the_forest,2020,,,,,,high,cancelled,https://web.archive.org/web/2024/https://burnintheforest.com/,2020-07-15,2020-07-19,
+burn_in_the_forest,2021,,,,,,high,cancelled,https://web.archive.org/web/2024/https://burnintheforest.com/,2021-07-14,2021-07-18,
+portalburn,2015,"Hummingbird Hill, Ovid, New York, USA",42.67646,-76.82301,,,high,held,https://web.archive.org/web/2023/https://portalburn.com/,2015-07-31,2015-08-03,town
+portalburn,2016,"Hummingbird Hill, Ovid, New York, USA",42.67646,-76.82301,,,high,held,https://web.archive.org/web/2023/https://portalburn.com/,2016-08-04,2016-08-08,town
+portalburn,2017,"Hummingbird Hill, Ovid, New York, USA",42.67646,-76.82301,,,high,held,https://web.archive.org/web/2023/https://portalburn.com/,2017-07-27,2017-07-31,town
+portalburn,2018,"Hummingbird Hill, Ovid, New York, USA",42.67646,-76.82301,,,high,held,https://web.archive.org/web/2023/https://portalburn.com/,2018-07-26,2018-07-30,town
+portalburn,2019,"Hummingbird Hill, Ovid, New York, USA",42.67646,-76.82301,,,high,held,https://web.archive.org/web/2023/https://portalburn.com/,2019-07-25,2019-07-29,town
+portalburn,2021,"Hummingbird Hill, Ovid, New York, USA",42.67646,-76.82301,,,high,held,https://web.archive.org/web/2023/https://portalburn.com/,2021-09-03,2021-09-06,town
+portalburn,2022,"Hummingbird Hill, Ovid, New York, USA",42.67646,-76.82301,,,high,held,https://web.archive.org/web/2023/https://portalburn.com/,2022-07-28,2022-08-01,town
+portalburn,2023,"Hummingbird Hill, Ovid, New York, USA",42.67646,-76.82301,,,high,held,https://web.archive.org/web/2023/https://portalburn.com/,2023-07-27,2023-07-31,town
+portalburn,2025,"Hummingbird Hill, Ovid, New York, USA",42.67646,-76.82301,,,high,held,https://web.archive.org/web/2023/https://portalburn.com/,2025-07-24,2025-07-28,town
+microburn,2014,"Llyn Gwynant, Snowdonia National Park, Gwynedd, Wales, UK",53.04726,-4.02248,70,organizer_estimate,high,held,https://www.microburn.org/history-of-microburn/,2014-04-25,2014-04-27,area
+microburn,2015,"Eco farm, Powys, Wales, UK",52.32715,-3.35534,150,capacity,high,held,https://www.microburn.org/history-of-microburn/,2015-09,,town
+microburn,2016,"Eco farm, Powys, Wales, UK",52.32715,-3.35534,,,high,held,https://fyb.events/burns/microburn,2016-09-16,2016-09-19,town
+microburn,2017,"Eco farm, Powys, Wales, UK",52.32715,-3.35534,,,high,held,https://fyb.events/burns/microburn,2017-09-14,2017-09-17,town
+microburn,2018,"Eco farm, Powys, Wales, UK",52.32715,-3.35534,,,high,held,https://fyb.events/burns/microburn,2018-09-13,2018-09-16,town
+microburn,2019,"Eco farm, Powys, Wales, UK",52.32715,-3.35534,173,tickets_sold,high,held,https://web.archive.org/web/2020/https://microburn.org/afterburn-report-2019/,2019-09-12,2019-09-16,town
+microburn,2020,"Eco farm, Powys, Wales, UK",52.32715,-3.35534,,,high,cancelled,https://fyb.events/burns/microburn,2020-09-17,2020-09-21,town
+microburn,2021,"Eco farm, Powys, Wales, UK",52.32715,-3.35534,147,tickets_sold,high,held,https://www.microburn.org/afterburn-report-2021/,2021-09-09,2021-09-13,town
+microburn,2022,"Eco farm, Powys, Wales, UK",52.32715,-3.35534,,,high,held,https://fyb.events/burns/microburn,2022-09-15,2022-09-19,town
+microburn,2023,"Eco farm, Powys, Wales, UK",52.32715,-3.35534,178,attendance,high,held,https://www.microburn.org/afterburn-report-2023/,2023-09-14,2023-09-18,town
+microburn,2024,"Eco farm, Powys, Wales, UK",52.32715,-3.35534,195,attendance,high,held,https://www.microburn.org/afterburn-report-2024/,2024-09-12,2024-09-16,town
+microburn,2025,"Eco farm, Powys, Wales, UK",52.32715,-3.35534,182,attendance,high,held,https://www.microburn.org/afterburn-report-2025/,2025-09-11,2025-09-15,town
+microburn,2026,"Eco farm, Powys, Wales, UK",52.32715,-3.35534,,,high,held,https://fyb.events/burns/microburn,2026-09-10,2026-09-14,town
+burning_seed,2010,"Bellingen, New South Wales, Australia",-30.37399,152.71921,,,medium,held,https://fyb.events/burns/burning-seed,,,region
+burning_seed,2011,"Matong State Forest, New South Wales, Australia",-34.76950,146.92160,,,medium,held,https://fyb.events/burns/burning-seed,,,town
+burning_seed,2012,"Matong State Forest, New South Wales, Australia",-34.76950,146.92160,600,organizer_estimate,medium,held,https://fyb.events/burns/burning-seed,,,town
+burning_seed,2013,"Matong State Forest, New South Wales, Australia",-34.76950,146.92160,,,medium,held,https://fyb.events/burns/burning-seed,,,town
+burning_seed,2014,"Matong State Forest, New South Wales, Australia",-34.76950,146.92160,,,high,held,https://web.archive.org/web/2014/https://www.burningseed.com/,2014-10-01,2014-10-07,town
+burning_seed,2015,"Matong State Forest, New South Wales, Australia",-34.76950,146.92160,,,high,held,https://web.archive.org/web/2015/https://www.burningseed.com/,2015-09-30,2015-10-05,town
+burning_seed,2016,"Matong State Forest, New South Wales, Australia",-34.76950,146.92160,,,high,held,https://web.archive.org/web/2016/https://www.burningseed.com/,2016-09-28,2016-10-03,town
+burning_seed,2017,"Matong State Forest, New South Wales, Australia",-34.76950,146.92160,3800,organizer_estimate,high,held,https://web.archive.org/web/2017/https://www.burningseed.com/,2017-09-27,2017-10-02,town
+burning_seed,2018,"Matong State Forest, New South Wales, Australia",-34.76950,146.92160,4200,organizer_estimate,high,held,https://web.archive.org/web/2018/https://www.burningseed.com/,2018-09-26,2018-10-02,town
+burning_seed,2019,"Matong State Forest, New South Wales, Australia",-34.76950,146.92160,,,high,held,https://web.archive.org/web/2019/https://www.burningseed.com/,2019-09-25,2019-10-01,town
+burning_seed,2020,Online (virtual burn),,,,,high,virtual,https://web.archive.org/web/2020/https://www.burningseed.com/,2020-09-25,2020-09-27,
+burning_seed,2022,"Matong State Forest, New South Wales, Australia",-34.76950,146.92160,,,high,held,https://web.archive.org/web/2022/https://www.burningseed.com/,2022-09-29,2022-10-03,town
+burning_seed,2023,"Matong State Forest, New South Wales, Australia",-34.76950,146.92160,,,medium,held,https://fyb.events/burns/burning-seed,2023-03-23,2023-03-27,town
+burning_seed,2025,"Matong State Forest, New South Wales, Australia",-34.76950,146.92160,,,high,held,https://web.archive.org/web/2025/https://www.burningseed.com/,2025-06-04,2025-06-10,town
+idaho_decompression,2016,"Twin Springs, Idaho, USA",,,,,high,held,https://web.archive.org/web/2016/https://www.idahodecompression.com/,2016-10-07,2016-10-09,
+idaho_decompression,2017,"Twin Springs, Idaho, USA",,,,,high,held,https://web.archive.org/web/2017/https://www.idahodecompression.com/,2017-10-05,2017-10-08,
+idaho_decompression,2018,"Twin Springs, Idaho, USA",,,,,high,held,https://web.archive.org/web/2018/https://www.idahodecompression.com/,2018-10-04,2018-10-07,
+idaho_decompression,2019,"Twin Springs, Idaho, USA",,,,,high,held,https://web.archive.org/web/2019/https://www.idahodecompression.com/,2019-10-04,2019-10-07,
+burning_japan,2012,"Tamagawa Campground, Kosuge Village, Yamanashi, Japan",35.76021,138.94012,100,organizer_estimate,medium,held,https://fyb.events/burns/burning-japan,,,town
+burning_japan,2013,"Nemoto Marine Campground, Minamiboso, Chiba, Japan",35.03875,139.83714,,,medium,held,https://fyb.events/burns/burning-japan,,,town
+burning_japan,2014,"Nemoto Marine Campground, Minamiboso, Chiba, Japan",35.03875,139.83714,,,medium,held,https://web.archive.org/web/2014/https://burning-japan.com/,2014-09-13,2014-09-15,town
+burning_japan,2015,"Former Tokyo Denki University site, Kanda-Nishikicho, Chiyoda, Tokyo, Japan",,,,,medium,held,https://web.archive.org/web/2015/https://burning-japan.com/,2015-10-23,2015-10-25,
+burning_japan,2016,"FLYERS PARK, Uonuma, Niigata, Japan",37.23033,138.96115,,,medium,held,https://fyb.events/burns/burning-japan,2016-09-25,,town
+burning_japan,2018,"Tsumagoi Pasture, Tsumagoi Village, Gunma, Japan",36.51682,138.53012,,,medium,held,https://fyb.events/burns/burning-japan,,,town
+burning_japan,2021,"Yugawara, Kanagawa, Japan",35.14792,139.10815,,,medium,held,https://fyb.events/burns/burning-japan,,,town
+burning_japan,2022,"Auto Camp Mogura, Numazu, Shizuoka, Japan",35.09580,138.86339,,,medium,held,https://fyb.events/burns/burning-japan,,,town
+burning_japan,2023,"Auto Camp Mogura, Numazu, Shizuoka, Japan",35.09580,138.86339,,,medium,held,https://fyb.events/burns/burning-japan,,,town
+burning_japan,2024,"Tsumagoi Pasture, Tsumagoi Village, Gunma, Japan",36.51682,138.53012,,,medium,held,https://fyb.events/burns/burning-japan,2024-10-11,2024-10-14,town
+burning_japan,2025,"Tsumagoi Pasture, Tsumagoi Village, Gunma, Japan",36.51682,138.53012,,,medium,held,https://fyb.events/burns/burning-japan,,,town
+burning_japan,2019,"Uonuma, Niigata, Japan",37.23033,138.96115,,,high,cancelled,https://web.archive.org/web/2019/https://burning-japan.com/,2019-10-12,2019-10-14,town
+az_decom,2015,"Tucson, Arizona, USA",32.22288,-110.97485,,,high,held,https://web.archive.org/web/2025/https://azburners.org/,2015-10-08,2015-10-11,town
+az_decom,2016,"Tucson, Arizona, USA",32.22288,-110.97485,,,high,held,https://web.archive.org/web/2025/https://azburners.org/,2016-10-20,2016-10-23,town
+az_decom,2017,"Tucson, Arizona, USA",32.22288,-110.97485,,,high,held,https://web.archive.org/web/2025/https://azburners.org/,2017-10-12,2017-10-15,town
+az_decom,2019,"Tucson, Arizona, USA",32.22288,-110.97485,,,high,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-10-10,2019-10-13,town
+az_decom,2024,"Tucson, Arizona, USA",32.22288,-110.97485,,,high,held,https://web.archive.org/web/2025/https://azburners.org/,2024-10-11,2024-10-13,town
+az_decom,2025,"Willcox, Arizona, USA",32.25291,-109.83158,,,high,held,https://web.archive.org/web/2025/https://azburners.org/,2025-10-10,2025-10-12,town
+sentella,2018,"Just Be Farm, Barberton, Mpumalanga, South Africa",-25.78222,31.04750,,,high,held,https://web.archive.org/web/2018/https://sentella.wildeburn.co.za/,2018-10-24,2018-10-28,town
+sentella,2019,"Near Barberton, Mpumalanga, South Africa",-25.78222,31.04750,,,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-10-23,2019-10-27,town

@@ -1,0 +1,203 @@
+event_id,year,location,lat,lon,population,population_metric,confidence,status,source_url,start_date,end_date,location_precision
+afrikaburn,2007,"Stonehenge farm, Tankwa Karoo, South Africa",-32.32946,19.74732,1000,organizer_estimate,high,held,https://www.afrikaburn.org/event/event-archive/,2007-11-22,2007-11-25,area
+afrikaburn,2008,"Stonehenge farm, Tankwa Karoo, South Africa",-32.32946,19.74732,1200,organizer_estimate,high,held,https://www.afrikaburn.org/event/event-archive/,2008-10-16,2008-10-19,area
+afrikaburn,2009,"Stonehenge farm, Tankwa Karoo, South Africa",-32.32946,19.74732,1600,organizer_estimate,high,held,https://www.afrikaburn.org/event/event-archive/,2009-09-09,2009-09-13,area
+afrikaburn,2010,"Stonehenge farm, Tankwa Karoo, South Africa",-32.32946,19.74732,2200,organizer_estimate,high,held,https://www.afrikaburn.org/event/event-archive/,2010-04-22,2010-04-27,area
+afrikaburn,2011,"Stonehenge farm, Tankwa Karoo, South Africa",-32.32946,19.74732,4000,organizer_estimate,high,held,https://www.afrikaburn.org/event/event-archive/,2011-04-27,2011-05-02,area
+afrikaburn,2012,"Stonehenge farm, Tankwa Karoo, South Africa",-32.32946,19.74732,5700,attendance,high,held,https://www.afrikaburn.org/event/event-archive/,2012-04-25,2012-04-30,area
+afrikaburn,2013,"Stonehenge farm, Tankwa Karoo, South Africa",-32.32946,19.74732,7000,attendance,high,held,https://www.afrikaburn.org/event/event-archive/,2013-05-01,2013-05-06,area
+afrikaburn,2014,"Stonehenge farm, Tankwa Karoo, South Africa",-32.32946,19.74732,9000,attendance,high,held,https://www.afrikaburn.org/event/event-archive/,2014-04-28,2014-05-04,area
+afrikaburn,2015,"Stonehenge farm, Tankwa Karoo, South Africa",-32.32946,19.74732,9800,attendance,high,held,https://www.afrikaburn.org/event/event-archive/,2015-04-27,2015-05-03,area
+afrikaburn,2016,"Stonehenge farm, Tankwa Karoo, South Africa",-32.32946,19.74732,11800,attendance,high,held,https://www.afrikaburn.org/event/event-archive/,2016-04-25,2016-05-01,area
+afrikaburn,2017,"Stonehenge farm, Tankwa Karoo, South Africa",-32.32946,19.74732,13000,attendance,high,held,https://www.afrikaburn.org/event/event-archive/,2017-04-24,2017-04-30,area
+afrikaburn,2018,"Stonehenge farm, Tankwa Karoo, South Africa",-32.32946,19.74732,11000,attendance,high,held,https://www.afrikaburn.org/event/event-archive/,2018-04-23,2018-04-29,area
+afrikaburn,2019,"Stonehenge farm, Tankwa Karoo, South Africa",-32.32946,19.74732,11500,attendance,high,held,https://www.afrikaburn.org/event/event-archive/,2019-04-29,2019-05-05,area
+afrikaburn,2020,"Tankwa Karoo, South Africa (approximate)",,,,,high,cancelled,https://www.afrikaburn.org/event/event-archive/,2020-04-27,2020-05-03,
+afrikaburn,2021,"Tankwa Karoo, South Africa (approximate)",,,,,high,cancelled,https://www.afrikaburn.org/event/event-archive/,,,
+afrikaburn,2022,"Quaggafontein, Tankwa Karoo, South Africa",-32.48264,19.89761,6500,organizer_estimate,high,held,https://www.afrikaburn.org/event/event-archive/,2022-04-25,2022-05-01,area
+afrikaburn,2023,"Quaggafontein, Tankwa Karoo, South Africa",-32.48264,19.89761,9000,organizer_estimate,high,held,https://www.afrikaburn.org/event/event-archive/,2023-04-24,2023-04-30,area
+afrikaburn,2024,"Quaggafontein, Tankwa Karoo, South Africa",-32.48264,19.89761,10000,organizer_estimate,high,held,https://www.afrikaburn.org/event/event-archive/,2024-04-30,2024-05-05,area
+afrikaburn,2025,"Quaggafontein, Tankwa Karoo, South Africa",-32.48264,19.89761,10782,attendance,high,held,https://www.afrikaburn.org/wp-content/uploads/2026/03/2025-ANNUAL-REPORT-AFRIKABURN-AU.pdf,2025-04-28,2025-05-04,area
+afrikaburn,2026,"Quaggafontein, Tankwa Karoo, South Africa",-32.48264,19.89761,,,high,scheduled_or_unverified,https://tickets.afrikaburn.org/,2026-04-27,2026-05-03,area
+burning_flipside,1998,"Recreation Plantation, Dripping Springs, Texas, USA",30.11883,-98.18054,30,attendance,high,precursor_held,https://history.burningman.org/timeline/1998/,1998-06,,site
+burning_flipside,1999,"Recreation Plantation, Dripping Springs, Texas, USA",30.11883,-98.18054,250,lower_bound,medium,held,https://en.wikipedia.org/wiki/Burning_Flipside,1999-05,1999-05,site
+burning_flipside,2000,"Recreation Plantation, Dripping Springs, Texas, USA",30.11883,-98.18054,300,attendance,medium,held,https://en.wikipedia.org/wiki/Burning_Flipside,2000-05,2000-05,site
+burning_flipside,2001,"Recreation Plantation, Dripping Springs, Texas, USA",30.11883,-98.18054,500,lower_bound,medium,held,https://en.wikipedia.org/wiki/Burning_Flipside,2001-05-24,2001-05-29,site
+burning_flipside,2002,"Recreation Plantation, Dripping Springs, Texas, USA",30.11883,-98.18054,750,attendance,medium,held,https://en.wikipedia.org/wiki/Burning_Flipside,2002-05,2002-05,site
+burning_flipside,2003,"Recreation Plantation, Dripping Springs, Texas, USA",30.11883,-98.18054,950,attendance,medium,held,https://en.wikipedia.org/wiki/Burning_Flipside,2003-05,2003-05,site
+burning_flipside,2004,"Recreation Plantation, Dripping Springs, Texas, USA",30.11883,-98.18054,1200,capacity,medium,held,https://en.wikipedia.org/wiki/Burning_Flipside,2004-05,2004-05,site
+burning_flipside,2005,"Recreation Plantation, Dripping Springs, Texas, USA",30.11883,-98.18054,1500,capacity,medium,held,https://en.wikipedia.org/wiki/Burning_Flipside,2005-05,2005-05,site
+burning_flipside,2006,"Flat Creek Crossing, Texas, USA",30.28334,-98.20548,1800,capacity,medium,held,https://en.wikipedia.org/wiki/Burning_Flipside,2006-05,2006-05,site
+burning_flipside,2007,"Flat Creek Crossing, Texas, USA",30.28334,-98.20548,2007,capacity,medium,held,https://en.wikipedia.org/wiki/Burning_Flipside,2007-05,2007-05,site
+burning_flipside,2008,"Flat Creek Crossing, Texas, USA",30.28334,-98.20548,2345,capacity,medium,held,https://en.wikipedia.org/wiki/Burning_Flipside,2008-05,2008-05,site
+burning_flipside,2009,"Flat Creek Crossing, Texas, USA",30.28334,-98.20548,2468,capacity,medium,held,https://en.wikipedia.org/wiki/Burning_Flipside,2009-05,2009-05,site
+burning_flipside,2010,"Apache Passtures, near Rockdale, Texas, USA",30.69525,-97.13897,2469,capacity,medium,held,https://en.wikipedia.org/wiki/Burning_Flipside,2010-05,2010-05,site
+burning_flipside,2011,"Apache Passtures, near Rockdale, Texas, USA",30.69525,-97.13897,2470,capacity,medium,held,https://en.wikipedia.org/wiki/Burning_Flipside,2011-05,2011-05,site
+burning_flipside,2012,"Apache Passtures, near Rockdale, Texas, USA",30.69525,-97.13897,2483,capacity,medium,held,https://en.wikipedia.org/wiki/Burning_Flipside,2012-05,2012-05,site
+burning_flipside,2013,"Apache Passtures, near Rockdale, Texas, USA",30.69525,-97.13897,2557,gate_count,medium,held,https://en.wikipedia.org/wiki/Burning_Flipside,2013-05,2013-05,site
+burning_flipside,2014,"Apache Passtures, near Rockdale, Texas, USA",30.69525,-97.13897,2982,gate_count,medium,held,https://en.wikipedia.org/wiki/Burning_Flipside,2014-05,2014-05,site
+burning_flipside,2015,"Apache Passtures, near Rockdale, Texas, USA",30.69525,-97.13897,2852,gate_count,medium,held,https://en.wikipedia.org/wiki/Burning_Flipside,2015-05,2015-05,site
+burning_flipside,2016,"Apache Passtures, near Rockdale, Texas, USA",30.69525,-97.13897,2547,gate_count,medium,held,https://en.wikipedia.org/wiki/Burning_Flipside,2016-05,2016-05,site
+burning_flipside,2017,"Apache Passtures, near Rockdale, Texas, USA",30.69525,-97.13897,3017,tickets_sold,high,held,https://www.burningflipside.com/announcements/burning-flipside-2018-return-of-the-shadows-20-years-of-light-and-dark-public-information-report,2017-05,2017-05,site
+burning_flipside,2017,"Apache Passtures, near Rockdale, Texas, USA",30.69525,-97.13897,2870,tickets_used,high,held,https://www.burningflipside.com/announcements/burning-flipside-2018-return-of-the-shadows-20-years-of-light-and-dark-public-information-report,2017-05,2017-05,site
+burning_flipside,2018,"Apache Passtures, near Rockdale, Texas, USA",30.69525,-97.13897,2710,tickets_sold,high,held,https://www.burningflipside.com/announcements/burning-flipside-2018-return-of-the-shadows-20-years-of-light-and-dark-public-information-report,2018-05-24,2018-05-28,site
+burning_flipside,2018,"Apache Passtures, near Rockdale, Texas, USA",30.69525,-97.13897,2627,tickets_used,high,held,https://www.burningflipside.com/announcements/burning-flipside-2018-return-of-the-shadows-20-years-of-light-and-dark-public-information-report,2018-05-24,2018-05-28,site
+burning_flipside,2019,"Apache Passtures, near Rockdale, Texas, USA",30.69525,-97.13897,2649,gate_count,medium,held,https://en.wikipedia.org/wiki/Burning_Flipside,2019-05-23,2019-05-27,site
+burning_flipside,2020,,,,,,high,cancelled,https://www.burningflipside.com/about/history,,,
+burning_flipside,2021,,,,,,high,cancelled,https://www.burningflipside.com/about/history,,,
+burning_flipside,2022,"Apache Passtures, near Rockdale, Texas, USA",30.69525,-97.13897,2103,tickets_used,high,held,https://www.burningflipside.com/announcements/burning-flipside-2022-the-sacred-and-the-propane-public-information-report,2022-05-26,2022-05-30,site
+burning_flipside,2023,"Apache Passtures, near Rockdale, Texas, USA",30.69525,-97.13897,,,medium,held,https://en.wikipedia.org/wiki/Burning_Flipside,2023-05-25,2023-05-29,site
+burning_flipside,2024,"Apache Passtures, near Rockdale, Texas, USA",30.69525,-97.13897,,,medium,held,https://en.wikipedia.org/wiki/Burning_Flipside,2024-05,2024-05,site
+burning_flipside,2025,"Apache Passtures, near Rockdale, Texas, USA",30.69525,-97.13897,,,medium,held,https://en.wikipedia.org/wiki/Burning_Flipside,2025-04-24,2025-04-28,site
+burning_flipside,2026,"Apache Passtures, near Rockdale, Texas, USA",30.69525,-97.13897,,,high,scheduled_or_unverified,https://www.burningflipside.com/event/survival-guide,2026-04-23,2026-04-27,site
+burning_man,1986,"Baker Beach, San Francisco (approximate)",37.79,-122.48,35,attendance,high,held,https://history.burningman.org/timeline/,1986-06-22,1986-06-22,area
+burning_man,1987,"Baker Beach, San Francisco (approximate)",37.79,-122.48,80,attendance,high,held,https://history.burningman.org/timeline/,1987-06-20,1987-06-20,area
+burning_man,1988,"Baker Beach, San Francisco (approximate)",37.79,-122.48,200,attendance,high,held,https://history.burningman.org/timeline/,1988-06-18,1988-06-18,area
+burning_man,1989,"Baker Beach, San Francisco (approximate)",37.79,-122.48,300,attendance,high,held,https://history.burningman.org/timeline/,1989-06-24,1989-06-24,area
+burning_man,1990,"Black Rock Desert, Nevada",40.78643,-119.2067,350,attendance,high,held,https://history.burningman.org/timeline/,1990-09,1990-09,area
+burning_man,1990,"Black Rock Desert, Nevada",40.78643,-119.2067,80,attendance,high,held,https://history.burningman.org/timeline/,1990-09,1990-09,area
+burning_man,1991,"Black Rock Desert, Nevada, USA",40.78643,-119.20669,250,attendance,high,held,https://history.burningman.org/timeline/,1991-08-26,1991-09-02,area
+burning_man,1992,"Black Rock Desert, Nevada, USA",40.78643,-119.20669,600,attendance,high,held,https://history.burningman.org/timeline/,1992-08-31,1992-09-07,area
+burning_man,1993,"Black Rock Desert, Nevada, USA",40.78643,-119.20669,1000,attendance,high,held,https://history.burningman.org/timeline/,1993-08-30,1993-09-06,area
+burning_man,1994,"Black Rock Desert, Nevada, USA",40.78643,-119.20669,2000,attendance,high,held,https://history.burningman.org/timeline/,1994-08-29,1994-09-05,area
+burning_man,1995,"Black Rock Desert, Nevada, USA",40.78643,-119.20669,4000,attendance,high,held,https://history.burningman.org/timeline/,1995-08-28,1995-09-04,area
+burning_man,1996,"Black Rock Desert, Nevada, USA",40.78643,-119.20669,8000,attendance,high,held,https://history.burningman.org/timeline/,1996-08-26,1996-09-02,area
+burning_man,1997,"Hualapai Flat and Fly Ranch, Nevada",40.83592,-119.33544,10000,attendance,high,held,https://history.burningman.org/timeline/1997/,1997-08-25,1997-09-01,area
+burning_man,1998,"Black Rock Desert, Nevada, USA",40.78643,-119.20669,15000,attendance,high,held,https://history.burningman.org/timeline/,1998-08-31,1998-09-07,area
+burning_man,1999,"Black Rock Desert, Nevada, USA",40.78643,-119.20669,23000,attendance,high,held,https://history.burningman.org/timeline/,1999-08-30,1999-09-06,area
+burning_man,2000,"Black Rock Desert, Nevada, USA",40.78643,-119.20669,25400,attendance,high,held,https://history.burningman.org/timeline/,2000-08-26,2000-09-04,area
+burning_man,2001,"Black Rock Desert, Nevada, USA",40.78643,-119.20669,25659,attendance,high,held,https://history.burningman.org/timeline/,2001-08-27,2001-09-03,area
+burning_man,2002,"Black Rock Desert, Nevada, USA",40.78643,-119.2067,28979,attendance,high,held,https://history.burningman.org/timeline/2002/,2002-08-26,2002-09-02,area
+burning_man,2003,"Black Rock Desert, Nevada, USA",40.78643,-119.2067,30586,attendance,high,held,https://history.burningman.org/timeline/2003/,2003-08-25,2003-09-01,area
+burning_man,2004,"Black Rock Desert, Nevada, USA",40.78643,-119.2067,35664,attendance,high,held,https://history.burningman.org/timeline/2004/,2004-08-30,2004-09-06,area
+burning_man,2005,"Black Rock Desert, Nevada, USA",40.78643,-119.2067,35567,attendance,high,held,https://history.burningman.org/timeline/2005/,2005-08-28,2005-09-04,area
+burning_man,2006,"Black Rock Desert, Nevada, USA",40.78643,-119.2067,38989,attendance,high,held,https://history.burningman.org/timeline/2006/,2006-08-28,2006-09-04,area
+burning_man,2007,"Black Rock Desert, Nevada, USA",40.78643,-119.2067,47097,attendance,high,held,https://history.burningman.org/timeline/2007/,2007-08-27,2007-09-03,area
+burning_man,2008,"Black Rock Desert, Nevada, USA",40.78643,-119.2067,49599,attendance,high,held,https://history.burningman.org/timeline/2008/,2008-08-25,2008-09-01,area
+burning_man,2009,"Black Rock Desert, Nevada, USA",40.78643,-119.2067,43558,attendance,high,held,https://history.burningman.org/timeline/2009/,2009-08-31,2009-09-07,area
+burning_man,2010,"Black Rock Desert, Nevada, USA",40.78643,-119.2067,51525,attendance,high,held,https://history.burningman.org/timeline/2010/,2010-08-30,2010-09-06,area
+burning_man,2011,"Black Rock Desert, Nevada, USA",40.78643,-119.2067,53963,attendance,high,held,https://history.burningman.org/timeline/2011/,2011-08-29,2011-09-05,area
+burning_man,2012,"Black Rock Desert, Nevada, USA",40.78643,-119.2067,56149,attendance,high,held,https://history.burningman.org/timeline/2012/,2012-08-26,2012-09-02,area
+burning_man,2013,"Black Rock Desert, Nevada, USA",40.78643,-119.2067,69613,attendance,high,held,https://history.burningman.org/timeline/2013/,2013-08-26,2013-09-02,area
+burning_man,2014,"Black Rock Desert, Nevada, USA",40.78643,-119.2067,65922,attendance,high,held,https://history.burningman.org/timeline/2014/,2014-08-25,2014-09-01,area
+burning_man,2015,"Black Rock Desert, Nevada, USA",40.78643,-119.2067,67564,attendance,high,held,https://history.burningman.org/timeline/2015/,2015-08-30,2015-09-07,area
+burning_man,2016,"Black Rock Desert, Nevada, USA",40.78643,-119.2067,67290,attendance,high,held,https://history.burningman.org/timeline/2016/,2016-08-28,2016-09-05,area
+burning_man,2017,"Black Rock Desert, Nevada, USA",40.78643,-119.2067,69493,attendance,high,held,https://history.burningman.org/timeline/2017/,2017-08-27,2017-09-04,area
+burning_man,2018,"Black Rock Desert, Nevada, USA",40.78643,-119.2067,70248,attendance,high,held,https://history.burningman.org/timeline/2018/,2018-08-25,2018-09-03,area
+burning_man,2019,"Black Rock Desert, Nevada, USA",40.78643,-119.20669,78850,attendance,high,held,https://history.burningman.org/timeline/,2019-08-25,2019-09-02,area
+burning_man,2020,"Black Rock Desert, Nevada (regional reference point)",40.78643,-119.20669,,,high,cancelled,https://history.burningman.org/timeline/,,,area
+burning_man,2021,"Black Rock Desert, Nevada (regional reference point)",40.78643,-119.20669,,,high,cancelled,https://history.burningman.org/timeline/,,,area
+burning_man,2022,"Black Rock Desert, Nevada, USA",40.78643,-119.20669,75069,attendance,high,held,https://history.burningman.org/timeline/,2022-08-28,2022-09-05,area
+burning_man,2023,"Black Rock Desert, Nevada, USA",40.78643,-119.20669,74126,attendance,high,held,https://history.burningman.org/timeline/,2023-08-27,2023-09-04,area
+burning_man,2024,"Black Rock Desert, Nevada, USA",40.78643,-119.20669,69141,attendance,high,held,https://history.burningman.org/timeline/,2024-08-25,2024-09-02,area
+burning_man,2025,"Black Rock City, Nevada (approximate)",40.78696,-119.20299,72181,attendance,high,held,https://history.burningman.org/timeline/,2025-08-24,2025-09-01,site
+burning_man,2026,"Black Rock Desert, Nevada, USA",40.78643,-119.2067,,,high,scheduled_or_unverified,https://burningman.org/black-rock-city/preparation/faq/,2026-08-30,2026-09-07,area
+element11,1998,"Stansbury Island, Utah, USA",40.82972,-112.49778,8,attendance,high,precursor_held,https://www.element11.org/history/timeline/,1998-06,,area
+element11,1999,"West Utah / Sun Tunnels area, Utah, USA",41.3035,-113.8638,70,organizer_estimate,high,held,https://www.element11.org/history/timeline/,1999-06,,area
+element11,2000,"Sun Tunnels, Utah, USA",41.3035,-113.8638,80,organizer_estimate,high,held,https://www.element11.org/history/timeline/,2000-06,,area
+element11,2001,"Sun Tunnels, Utah, USA",41.3035,-113.8638,90,organizer_estimate,high,held,https://www.element11.org/history/timeline/,2001-06,,area
+element11,2002,"Private property near Bonneville Salt Flats, Utah, USA",,,120,organizer_estimate,high,held,https://www.element11.org/history/timeline/,2002-08,,
+element11,2003,"Bonneville Seabase, near Grantsville, Utah, USA",40.64688,-112.52515,240,organizer_estimate,high,held,https://www.element11.org/history/timeline/,2003-06,,site
+element11,2004,"Bonneville Seabase, near Grantsville, Utah, USA",40.64688,-112.52515,320,organizer_estimate,high,held,https://www.element11.org/history/timeline/,2004-06,,site
+element11,2005,"Bonneville Seabase, near Grantsville, Utah, USA",40.64688,-112.52515,500,organizer_estimate,high,held,https://www.element11.org/history/timeline/,2005-06,,site
+element11,2006,"Bonneville Seabase, near Grantsville, Utah, USA",40.64688,-112.52515,500,organizer_estimate,high,held,https://www.element11.org/history/timeline/,2006-06,,site
+element11,2007,"Bonneville Seabase, near Grantsville, Utah, USA",40.64688,-112.52515,650,organizer_estimate,high,held,https://www.element11.org/history/timeline/,2007-06,,site
+element11,2008,"Bonneville Seabase, near Grantsville, Utah, USA",40.64688,-112.52515,680,organizer_estimate,high,held,https://www.element11.org/history/timeline/,2008-05-30,2008-06-01,site
+element11,2009,"Bonneville Seabase, near Grantsville, Utah, USA",40.64688,-112.52515,400,organizer_estimate,high,held,https://www.element11.org/history/timeline/,2009-06,,site
+element11,2010,"Bonneville Seabase, near Grantsville, Utah, USA",40.64688,-112.52515,,,high,held,https://www.element11.org/history/timeline/,2010-06,,site
+element11,2011,"Bonneville Seabase, near Grantsville, Utah, USA",40.64688,-112.52515,,,high,held,https://www.element11.org/history/timeline/,2011-06,,site
+element11,2012,"Bonneville Seabase, near Grantsville, Utah, USA",40.64688,-112.52515,1200,tickets_sold,high,held,https://www.element11.org/history/timeline/,2012-06,,site
+element11,2013,"Bonneville Seabase, near Grantsville, Utah, USA",40.64688,-112.52515,1200,organizer_estimate,high,held,https://www.element11.org/history/timeline/,2013-07-11,2013-07-14,site
+element11,2014,"Bonneville Seabase, near Grantsville, Utah, USA",40.64688,-112.52515,1200,organizer_estimate,high,held,https://www.element11.org/history/timeline/,2014-07-10,2014-07-13,site
+element11,2015,"Stargazer Ranch, near Park Valley, Utah, USA",41.8175,-113.32917,1300,organizer_estimate,high,held,https://www.element11.org/history/timeline/,2015-07-09,2015-07-12,town
+element11,2016,"Stargazer Ranch, near Park Valley, Utah, USA",41.8175,-113.32917,1400,organizer_estimate,high,held,https://www.element11.org/history/timeline/,2016-07-13,2016-07-17,town
+element11,2017,"Stargazer Ranch, near Park Valley, Utah, USA",41.8175,-113.32917,1200,organizer_estimate,high,held,https://www.element11.org/history/timeline/,2017-07-12,2017-07-16,town
+element11,2018,"Stargazer Ranch, near Park Valley, Utah, USA",41.8175,-113.32917,1300,organizer_estimate,high,held,https://www.element11.org/history/timeline/,2018-07-12,2018-07-15,town
+element11,2019,"Stargazer Ranch, near Park Valley, Utah, USA",41.8175,-113.32917,1400,organizer_estimate,high,held,https://www.element11.org/history/timeline/,2019-06-20,2019-06-23,town
+element11,2020,,,,,not_applicable,high,cancelled,https://www.element11.org/history/timeline/,2020-06-25,2020-06-28,
+element11,2021,"Stargazer Ranch, near Park Valley, Utah, USA",41.8175,-113.32917,1600,capacity,high,held,https://www.element11.org/history/timeline/,2021-09-23,2021-09-26,town
+element11,2022,"Stargazer Ranch, near Park Valley, Utah, USA",41.8175,-113.32917,1800,capacity,high,held,https://www.element11.org/history/timeline/,2022-06-22,2022-06-26,town
+element11,2023,"Stargazer Ranch, near Park Valley, Utah, USA",41.8175,-113.32917,1874,tickets_sold,high,held,https://www.element11.org/wp-content/uploads/2024/09/2023-E11-AfterBurn-Report.pdf,2023-06-21,2023-06-25,town
+element11,2024,"Stargazer Ranch, near Park Valley, Utah, USA",41.8175,-113.32917,2000,attendance,high,held,https://www.element11.org/attendance/tickets/,2024-06-19,2024-06-23,town
+element11,2025,"Stargazer Ranch, near Park Valley, Utah, USA",41.8175,-113.32917,,,high,held,https://www.element11.org/element-11-2025-dates-and-location/,2025-06-18,2025-06-22,town
+element11,2026,"Stargazer Ranch, near Park Valley, Utah, USA",41.8175,-113.32917,,,high,scheduled_or_unverified,https://www.element11.org/date-annoucement/,2026-06-24,2026-06-28,town
+kiwiburn,2004,"Golden Bay, South Island, New Zealand",,,,,high,precursor_held,https://kiwiburn.com/news/the-first-burn/,,,
+kiwiburn,2005,"Golden Bay, South Island, New Zealand",,,200,organizer_estimate,high,held,https://kiwiburn.com/news/the-first-burn/,,,
+kiwiburn,2006,"Golden Bay, South Island, New Zealand",,,200,organizer_estimate,high,held,https://kiwiburn.com/news/the-first-burn/,,,
+kiwiburn,2007,"Whakamaru Domain, near Mangakino, New Zealand",-38.36944,175.775,145,attendance,high,held,https://kiwiburn.com/wp-content/uploads/2015/05/KB13_afterburn.pdf,2007-02-09,2007-02-11,town
+kiwiburn,2008,"Whakamaru Domain, near Mangakino, New Zealand",-38.36944,175.775,182,attendance,high,held,https://kiwiburn.com/wp-content/uploads/2015/05/KB13_afterburn.pdf,2008-02-01,2008-02-04,town
+kiwiburn,2009,"Whakamaru Domain, near Mangakino, New Zealand",-38.36944,175.775,250,attendance,high,held,https://kiwiburn.com/wp-content/uploads/2015/05/KB13_afterburn.pdf,2009-02-05,2009-02-08,town
+kiwiburn,2009,"Whakamaru Domain, near Mangakino, New Zealand",-38.36944,175.775,270,attendance,medium,held,https://en.wikipedia.org/wiki/Kiwiburn,2009-02-05,2009-02-08,town
+kiwiburn,2010,"Whakamaru Domain, near Mangakino, New Zealand",-38.36944,175.775,450,attendance,high,held,https://kiwiburn.com/wp-content/uploads/2015/05/KB13_afterburn.pdf,2010-01-29,2010-02-01,town
+kiwiburn,2011,"Whakamaru Domain, near Mangakino, New Zealand",-38.36944,175.775,530,attendance,high,held,https://kiwiburn.com/wp-content/uploads/2015/05/KB13_afterburn.pdf,2011-01-26,2011-01-31,town
+kiwiburn,2012,"Whakamaru Domain, near Mangakino, New Zealand",-38.36944,175.775,536,attendance,high,held,https://kiwiburn.com/wp-content/uploads/2015/05/KB13_afterburn.pdf,2012-01-18,2012-01-23,town
+kiwiburn,2013,"Whakamaru Domain, near Mangakino, New Zealand",-38.36944,175.775,754,attendance,high,held,https://kiwiburn.com/wp-content/uploads/2015/05/KB13_afterburn.pdf,2013-01-23,2013-01-28,town
+kiwiburn,2014,"Private farm near Hunterville, New Zealand",-39.933,175.567,783,attendance,high,held,https://kiwiburn.com/wp-content/uploads/2018/08/KB18-Afterburn-Report.pdf,2014-01-22,2014-01-27,town
+kiwiburn,2015,"Private farm near Hunterville, New Zealand",-39.933,175.567,954,attendance,high,held,https://kiwiburn.com/wp-content/uploads/2018/08/KB18-Afterburn-Report.pdf,2015-01-21,2015-01-26,town
+kiwiburn,2016,"Private farm near Hunterville, New Zealand",-39.933,175.567,1485,attendance,high,held,https://kiwiburn.com/wp-content/uploads/2018/08/KB18-Afterburn-Report.pdf,2016-01-27,2016-02-01,town
+kiwiburn,2017,"Private farm near Hunterville, New Zealand",-39.933,175.567,1635,attendance,high,held,https://kiwiburn.com/wp-content/uploads/2018/08/KB18-Afterburn-Report.pdf,2017-01-25,2017-01-30,town
+kiwiburn,2018,"Private farm near Hunterville, New Zealand",-39.933,175.567,1809,attendance,high,held,https://kiwiburn.com/wp-content/uploads/2018/08/KB18-Afterburn-Report.pdf,2018-01-24,2018-01-29,town
+kiwiburn,2019,,,,,,medium,cancelled,https://en.wikipedia.org/wiki/Kiwiburn,,,
+kiwiburn,2020,"Private farm near Hunterville, New Zealand",-39.933,175.567,1995,attendance,medium,held,https://en.wikipedia.org/wiki/Kiwiburn,2020-01-22,2020-01-27,town
+kiwiburn,2021,"Private farm near Hunterville, New Zealand",-39.933,175.567,2219,attendance,medium,held,https://en.wikipedia.org/wiki/Kiwiburn,2021-01-27,2021-02-01,town
+kiwiburn,2022,,,,,,medium,cancelled,https://en.wikipedia.org/wiki/Kiwiburn,,,
+kiwiburn,2023,"Private farm near Hunterville, New Zealand",-39.933,175.567,2268,attendance,medium,held,https://en.wikipedia.org/wiki/Kiwiburn,2023-01-25,2023-01-30,town
+kiwiburn,2024,"Private farm near Hunterville, New Zealand",-39.933,175.567,1761,attendance,medium,held,https://en.wikipedia.org/wiki/Kiwiburn,2024-01-24,2024-01-29,town
+kiwiburn,2024,"Private farm near Hunterville, New Zealand",-39.933,175.567,1835,tickets_sold,high,held,https://kiwiburn.com/news/kb24-stats/,2024-01-24,2024-01-29,town
+kiwiburn,2024,"Private farm near Hunterville, New Zealand",-39.933,175.567,1651,attendance,high,held,https://kiwiburn.com/news/kb24-stats/,2024-01-24,2024-01-29,town
+kiwiburn,2025,"Private farm near Hunterville, New Zealand",-39.933,175.567,2450,capacity,high,held,https://kiwiburn.com/the-event/getting-ready/faqs/,2025-01-22,2025-01-27,town
+kiwiburn,2026,"Private farm near Hunterville, New Zealand",-39.933,175.567,,,high,scheduled_or_unverified,https://kiwiburn.com/news/save-the-dates-2/,2026-01-21,2026-01-26,town
+mama_burn,2012,"HaBonim Beach, Israel",32.64972,34.93306,600,organizer_estimate,high,precursor_held,https://www.midburn.org/en/onmidburn,2012-04,,area
+midburn,2014,"Negev Desert near Sde Boker, Israel",30.87361,34.79306,3000,attendance,high,held,https://www.midburn.org/en/onmidburn,2014-06,,town
+midburn,2015,"Negev Desert near Sde Boker, Israel",30.87361,34.79306,6500,attendance,medium,held,https://en.wikipedia.org/wiki/Midburn,2015-05-20,2015-05-24,town
+midburn,2016,"Negev Desert near Sde Boker, Israel",30.87361,34.79306,8000,attendance,medium,held,https://en.wikipedia.org/wiki/Midburn,2016-06-08,2016-06-12,town
+midburn,2017,"Negev Desert near Sde Boker, Israel",30.87361,34.79306,11000,attendance,medium,held,https://en.wikipedia.org/wiki/Midburn,2017-05-28,2017-06-02,town
+midburn,2018,"Negev Desert near Sde Boker, Israel",30.87361,34.79306,12000,organizer_estimate,high,held,https://www.midburn.org/en/onmidburn,2018-05-14,2018-05-19,town
+midburn,2019,,,,,,medium,cancelled,https://www.jpost.com/israel-news/culture/israels-burning-man-event-takes-place-in-the-negev-683737,,,
+midburn,2020,,,,,,medium,cancelled,https://www.jpost.com/israel-news/culture/israels-burning-man-event-takes-place-in-the-negev-683737,,,
+midburn,2021,"Negev Desert, Israel",,,,,medium,held,https://www.jpost.com/israel-news/culture/israels-burning-man-event-takes-place-in-the-negev-683737,2021-10-25,2021-10-30,
+midburn,2022,,,,,,medium,held,https://en.wikipedia.org/wiki/Midburn,2022-10-10,2022-10-15,
+midburn,2023,,,,,,medium,cancelled,https://en.wikipedia.org/wiki/Midburn,2023-11-06,2023-11-11,
+midburn,2024,"Shitim, Israel",30.17667,35.01639,,,medium,held,https://www.newsru.co.il/rest/1nov2026/midburn_135.html,2024-06-11,2024-06-15,town
+midburn,2025,"Foot of Mount Tzin, Negev Desert, Israel",,,,,medium,held,https://www.ynetnews.com/travel/article/b1s7sgd11wx,2025-11-24,2025-11-29,
+midburn,2026,"Foot of Mount Tzin, Negev Desert, Israel",,,,,medium,scheduled_or_unverified,https://www.newsru.co.il/rest/1nov2026/midburn_135.html,2026-11-02,2026-11-07,
+nowhere,2004,"Bardenas Reales, Navarra, Spain",42.19083,-1.47,35,attendance,high,held,https://www.goingnowhere.org/wp-content/uploads/2023/12/nowhere-census-2023.pdf,,,area
+nowhere,2005,"Near Robres, Aragón, Spain",41.86686,-0.46073,68,attendance,high,held,https://www.goingnowhere.org/wp-content/uploads/2023/12/nowhere-census-2023.pdf,,,town
+nowhere,2006,"Ermita San Blas, Robres, Aragón, Spain",41.86686,-0.46073,134,attendance,high,held,https://www.goingnowhere.org/wp-content/uploads/2023/12/nowhere-census-2023.pdf,2006-07,,town
+nowhere,2007,"Near Sariñena and Castejón de Monegros, Aragón, Spain",41.7934,-0.15741,240,attendance,high,held,https://www.goingnowhere.org/wp-content/uploads/2023/12/nowhere-census-2023.pdf,,,town
+nowhere,2008,"Near Sariñena and Castejón de Monegros, Aragón, Spain",41.7934,-0.15741,320,attendance,high,held,https://www.goingnowhere.org/wp-content/uploads/2023/12/nowhere-census-2023.pdf,2008-07-09,2008-07-13,town
+nowhere,2009,"Near Sariñena and Castejón de Monegros, Aragón, Spain",41.7934,-0.15741,515,attendance,high,held,https://www.goingnowhere.org/wp-content/uploads/2023/12/nowhere-census-2023.pdf,,,town
+nowhere,2010,"Near Sariñena and Castejón de Monegros, Aragón, Spain",41.7934,-0.15741,590,attendance,high,held,https://www.goingnowhere.org/wp-content/uploads/2023/12/nowhere-census-2023.pdf,,,town
+nowhere,2011,"Near Sariñena and Castejón de Monegros, Aragón, Spain",41.7934,-0.15741,627,attendance,high,held,https://www.goingnowhere.org/wp-content/uploads/2023/12/nowhere-census-2023.pdf,,,town
+nowhere,2012,"Sierra de Jubierre, Los Monegros, Aragón, Spain",41.7934,-0.15741,1004,attendance,high,held,https://www.goingnowhere.org/wp-content/uploads/2023/12/nowhere-census-2023.pdf,2012-07-03,2012-07-08,town
+nowhere,2013,"Sierra de Jubierre, Los Monegros, Aragón, Spain",41.7934,-0.15741,1199,attendance,high,held,https://www.goingnowhere.org/wp-content/uploads/2023/12/nowhere-census-2023.pdf,,,town
+nowhere,2014,"Sierra de Jubierre, Los Monegros, Aragón, Spain",41.7934,-0.15741,1368,attendance,high,held,https://www.goingnowhere.org/wp-content/uploads/2023/12/nowhere-census-2023.pdf,,,town
+nowhere,2015,"Sierra de Jubierre, Los Monegros, Aragón, Spain",41.7934,-0.15741,1500,attendance,high,held,https://www.goingnowhere.org/wp-content/uploads/2023/12/nowhere-census-2023.pdf,2015-07-07,2015-07-12,town
+nowhere,2016,"Sierra de Jubierre, Los Monegros, Aragón, Spain",41.7934,-0.15741,1939,attendance,high,held,https://www.goingnowhere.org/wp-content/uploads/2023/12/nowhere-census-2023.pdf,2016-07-04,2016-07-10,town
+nowhere,2017,"Sierra de Jubierre, Los Monegros, Aragón, Spain",41.7934,-0.15741,2600,attendance,high,held,https://www.goingnowhere.org/wp-content/uploads/2023/12/nowhere-census-2023.pdf,2017-07-04,2017-07-09,town
+nowhere,2018,"Near the Sierra de Jubierre, Los Monegros, Aragón, Spain",41.67927,-0.15118,3664,attendance,high,held,https://www.goingnowhere.org/wp-content/uploads/2023/12/nowhere-census-2023.pdf,2018-07-03,2018-07-08,site
+nowhere,2019,"Sierra de Jubierre, Los Monegros, Aragón, Spain",41.7934,-0.15741,3554,attendance,high,held,https://www.goingnowhere.org/wp-content/uploads/2023/12/nowhere-census-2023.pdf,2019-07-09,2019-07-14,town
+nowhere,2020,,,,,,high,cancelled,https://www.goingnowhere.org/event/financial-reports/,,,
+nowhere,2021,,,,,,high,cancelled,https://www.goingnowhere.org/event/financial-reports/,,,
+nowhere,2022,"Near the Sierra de Jubierre, Los Monegros, Aragón, Spain",41.67927,-0.15118,3151,attendance,high,held,https://www.goingnowhere.org/wp-content/uploads/2023/12/nowhere-census-2023.pdf,2022-07-04,2022-07-09,site
+nowhere,2023,"Sierra de Jubierre, Los Monegros, Aragón, Spain",41.67927,-0.15118,2670,attendance,high,held,https://www.goingnowhere.org/wp-content/uploads/2023/12/nowhere-census-2023.pdf,2023-07-04,2023-07-09,site
+nowhere,2023,"Sierra de Jubierre, Los Monegros, Aragón, Spain",41.67927,-0.15118,2980,tickets_sold,high,held,https://www.goingnowhere.org/wp-content/uploads/2023/12/nowhere-census-2023.pdf,2023-07-04,2023-07-09,site
+nowhere,2024,"Near the Sierra de Jubierre, Los Monegros, Aragón, Spain",41.67927,-0.15118,,,high,held,https://www.goingnowhere.org/event/financial-reports/,2024-07-02,2024-07-07,site
+nowhere,2025,"Los Monegros, Aragón, Spain",41.7934,-0.15741,,,high,held,https://www.goingnowhere.org/event/financial-reports/,2025-07-01,2025-07-06,town
+nowhere,2026,,,,,,high,scheduled_or_unverified,https://www.goingnowhere.org/?p=18519,2026-07-07,2026-07-12,
+octoburn,2012,"HaBonim Beach, Israel",32.64972,34.93306,1600,organizer_estimate,high,precursor_held,https://www.midburn.org/en/onmidburn,2012-10,,area
+the_borderland,2011,"Hjo, Sweden",58.3,14.283,46,attendance,high,held,https://talk.theborderland.se/main,,,town
+the_borderland,2012,"Hjo, Sweden",58.3,14.283,,,medium,held,https://anydayguide.com/festival/782-the-borderland,2012-07-25,2012-07-29,town
+the_borderland,2013,"Visby, Gotland, Sweden",57.63472,18.29917,,,medium,held,https://anydayguide.com/festival/782-the-borderland,2013-07-23,2013-07-30,town
+the_borderland,2014,"Visby, Gotland, Sweden",57.63472,18.29917,,,medium,held,https://anydayguide.com/festival/782-the-borderland,2014-07-21,2014-07-27,town
+the_borderland,2015,"Boesdal limestone quarry, Denmark",55.2582,12.39788,,,medium,held,https://anydayguide.com/festival/782-the-borderland,2015-07-20,2015-07-26,site
+the_borderland,2016,"Boesdal limestone quarry, Denmark",55.2582,12.39788,,,medium,held,https://anydayguide.com/festival/782-the-borderland,2016-07-18,2016-07-24,site
+the_borderland,2017,"Boesdal limestone quarry, Denmark",55.2582,12.39788,,,medium,held,https://anydayguide.com/festival/782-the-borderland,2017-07-24,2017-07-30,site
+the_borderland,2018,"Hedeland Nature Park, Denmark",55.62318,12.17252,,,medium,held,https://anydayguide.com/festival/782-the-borderland,2018-07-23,2018-07-29,area
+the_borderland,2019,"Hedeland Nature Park, Denmark",55.62318,12.17252,,,medium,held,https://anydayguide.com/festival/782-the-borderland,2019-07-22,2019-07-28,area
+the_borderland,2020,,,,,,low,cancelled,https://martinkallstrom.com/knowledge/projects/alversjo-the-borderland/,,,
+the_borderland,2022,"Alversjö, near Eksjö, Sweden",57.62188,14.92604,2000,attendance,medium,held,https://www.svt.se/nyheter/lokalt/jonkoping/besokaren-om-drogkritiken-mot-borderland-vi-har-det-vackraste-samhallet-har,2022-07-25,2022-07-31,area
+the_borderland,2023,"Alversjö, near Eksjö, Sweden",57.62188,14.92604,,,medium,held,https://anydayguide.com/festival/782-the-borderland,2023-07-24,2023-07-30,area
+the_borderland,2024,"Alversjö, near Eksjö, Sweden",57.62188,14.92604,,,medium,held,https://anydayguide.com/festival/782-the-borderland,2024-07-22,2024-07-28,area
+the_borderland,2025,"Alversjö, near Eksjö, Sweden",57.62188,14.92604,,,medium,held,https://anydayguide.com/festival/782-the-borderland,2025-07-21,2025-07-27,area
+the_borderland,2026,"Alversjö, near Eksjö, Sweden",57.62188,14.92604,,,medium,scheduled_or_unverified,https://anydayguide.com/festival/782-the-borderland,2026-07-20,2026-07-26,area

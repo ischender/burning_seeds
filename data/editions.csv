@@ -1,1 +1,1 @@
-event_id,year,location,lat,lon,population,population_metric,confidence,status,source_url
+event_id,year,location,lat,lon,population,population_metric,confidence,status,source_url,start_date,end_date,location_precision

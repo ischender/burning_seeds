@@ -1,0 +1,182 @@
+event_id,year,location,lat,lon,population,population_metric,confidence,status,source_url,start_date,end_date,location_precision
+all_of_us,2015,"Upper Lake, California, USA",,,,,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,,,
+all_of_us,2019,"Upper Lake, California, USA",,,,,medium,cancelled,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,,,
+burning_burg,2008,"Lutter Castle, Lutter am Barenberge, Lower Saxony, Germany",51.99000,10.27000,,,high,held,http://burningburg.de/,,,site
+burning_burg,2019,"Lutter Castle, Lutter am Barenberge, Lower Saxony, Germany",51.99000,10.27000,110,capacity,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-06-13,2019-06-16,site
+burning_burg,2023,"Lutter Castle, Lutter am Barenberge, Lower Saxony, Germany",51.99000,10.27000,110,capacity,high,held,https://web.archive.org/web/20230406010131/http://burningburg.de/,2023-06-08,2023-06-11,site
+burning_burg,2025,"Lutter Castle, Lutter am Barenberge, Lower Saxony, Germany",51.99000,10.27000,110,capacity,high,held,http://burningburg.de/,2025-06-19,2025-06-22,site
+burning_burg,2026,"Lutter Castle, Lutter am Barenberge, Lower Saxony, Germany",51.99000,10.27000,110,capacity,high,scheduled_or_unverified,http://burningburg.de/,2026-06-18,2026-06-21,site
+burnt_soup,2013,"Dripping Springs, Texas, USA",30.19000,-98.09000,,,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,,,town
+burnt_soup,2014,"Dripping Springs, Texas, USA",30.19000,-98.09000,,,high,held,https://www.burntsouptx.com/,2014-08-28,2014-09-01,town
+burnt_soup,2015,"Dripping Springs, Texas, USA",30.19000,-98.09000,,,high,held,https://www.burntsouptx.com/,2015-09-01,2015-09-05,town
+burnt_soup,2016,"Dripping Springs, Texas, USA",30.19000,-98.09000,,,high,held,https://www.burntsouptx.com/,2016-09-01,2016-09-05,town
+burnt_soup,2018,"Dripping Springs, Texas, USA",30.19000,-98.09000,,,high,held,https://web.archive.org/web/20180802081235/http://www.burntsouptx.com/,2018-08-30,2018-09-03,town
+burnt_soup,2019,"Dripping Springs, Texas, USA",30.19000,-98.09000,300,attendance,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-08-29,2019-09-02,town
+burnt_soup,2024,"Dripping Springs, Texas, USA",30.19000,-98.09000,,,high,held,https://www.burntsouptx.com/,2024-08-29,2024-09-02,town
+burnt_soup,2025,"Dripping Springs, Texas, USA",30.19000,-98.09000,,,high,held,https://www.burntsouptx.com/,2025-08-28,2025-09-01,town
+burnt_soup,2026,"Dripping Springs, Texas, USA",30.19000,-98.09000,,,high,scheduled_or_unverified,https://www.burntsouptx.com/,2026-09-03,2026-09-07,town
+critical_northwest,2003,"Masonic Family Park, Granite Falls, Washington, USA",48.08300,-121.97000,,,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,,,site
+critical_northwest,2019,"Masonic Family Park, Granite Falls, Washington, USA",48.08300,-121.97000,1200,attendance,high,held,https://web.archive.org/web/20190717212244/http://www.criticalnw.org/,2019-07-08,2019-07-14,site
+critical_northwest,2020,"Masonic Family Park, Granite Falls, Washington, USA",48.08300,-121.97000,,,high,cancelled,https://web.archive.org/web/20200812024743/https://www.criticalnw.org/,,,site
+critical_northwest,2021,"Masonic Family Park, Granite Falls, Washington, USA",48.08300,-121.97000,,,high,held,https://web.archive.org/web/20200812024743/https://www.criticalnw.org/,2021-07-05,2021-07-11,site
+critical_northwest,2023,"Masonic Family Park, Granite Falls, Washington, USA",48.08300,-121.97000,,,high,held,https://web.archive.org/web/20230714024024/https://criticalnw.org/,2023-07-10,2023-07-16,site
+critical_northwest,2024,"Masonic Family Park, Granite Falls, Washington, USA",48.08300,-121.97000,1200,attendance,high,held,https://criticalnw.org/2025-critical-northwest-census/,2024-07-15,2024-07-21,site
+critical_northwest,2025,"Masonic Family Park, Granite Falls, Washington, USA",48.08300,-121.97000,,,high,held,https://criticalnw.org/2025-critical-northwest-census/,,,site
+elsewhence,2015,"Bailey, Colorado, USA",39.40000,-105.48000,,,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,,,town
+elsewhence,2016,"Bailey, Colorado, USA",39.40000,-105.48000,,,high,held,https://web.archive.org/web/20160821144041/http://www.elsewhence.com/,2016-09-16,2016-09-18,town
+elsewhence,2017,"Bailey, Colorado, USA",39.40000,-105.48000,,,high,held,https://web.archive.org/web/20170801082335/http://www.elsewhence.com/,2017-09-15,2017-09-17,town
+elsewhence,2018,"Bailey, Colorado, USA",39.40000,-105.48000,,,high,held,https://web.archive.org/web/20180812145239/http://www.elsewhence.com/,2018-07-19,2018-07-22,town
+elsewhence,2019,"Bailey, Colorado, USA",39.40000,-105.48000,300,organizer_estimate,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-09-20,2019-09-22,town
+elsewhence,2020,"Bailey, Colorado, USA",39.40000,-105.48000,,,high,cancelled,https://web.archive.org/web/20200919161759/https://www.elsewhence.com/,,,town
+elsewhence,2021,"Bailey, Colorado, USA",39.40000,-105.48000,,,high,held,https://web.archive.org/web/20210927110847/https://www.elsewhence.com/,2021-09-17,2021-09-19,town
+elsewhence,2022,"Bailey, Colorado, USA",39.40000,-105.48000,,,high,held,https://web.archive.org/web/20230509200717/https://www.elsewhence.com/,,,town
+elsewhence,2023,"Bailey, Colorado, USA",39.40000,-105.48000,,,high,held,https://web.archive.org/web/20230914204749/https://www.elsewhence.com/,2023-09-15,2023-09-17,town
+elsewhence,2024,"Bailey, Colorado, USA",39.40000,-105.48000,,,high,held,https://web.archive.org/web/20240802040046/https://www.elsewhence.com/,2024-09-20,2024-09-22,town
+elsewhence,2025,"Bailey, Colorado, USA",39.40000,-105.48000,,,high,held,https://www.elsewhence.com/,2025-09-19,2025-09-21,town
+elsewhence,2026,"Bailey, Colorado, USA",39.40000,-105.48000,,,high,scheduled_or_unverified,https://www.elsewhence.com/,2026-09-18,2026-09-20,town
+engulf,2016,"Kentwood, Louisiana, USA",30.94000,-90.51000,,,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,,,town
+engulf,2019,"Kentwood, Louisiana, USA",30.94000,-90.51000,300,attendance,high,held,https://web.archive.org/web/20191022183442/https://www.engulfburn.org/,2019-10-10,2019-10-13,town
+engulf,2021,"Kentwood, Louisiana, USA",30.94000,-90.51000,,,high,held,https://web.archive.org/web/20211227205353/https://www.engulfburn.org/,2021-11-11,2021-11-14,town
+engulf,2022,"Kentwood, Louisiana, USA",30.94000,-90.51000,,,high,held,https://web.archive.org/web/20220929190313/https://www.engulfburn.org/,2022-11-10,2022-11-13,town
+engulf,2024,"Kentwood, Louisiana, USA",30.94000,-90.51000,,,high,held,https://web.archive.org/web/20241001125728/https://www.engulfburn.org/,2024-11-07,2024-11-10,town
+engulf,2026,"Kentwood, Louisiana, USA",30.94000,-90.51000,,,high,scheduled_or_unverified,https://www.engulfburn.org/,2026-11-12,2026-11-15,town
+euphoria,2011,"Georgia, USA",,,,,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,,,
+euphoria,2019,"Georgia, USA",,,1220,attendance,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-05-02,2019-05-05,
+frostburn,2008,"Marvin's Mountaintop, Masontown, West Virginia, USA",39.55300,-79.90700,,,high,held,https://www.frostburn.org/,,,town
+frostburn,2017,"Marvin's Mountaintop, Masontown, West Virginia, USA",39.55300,-79.90700,,,high,held,https://web.archive.org/web/20160101180223/http://www.frostburn.org/,2017-02-16,2017-02-20,town
+frostburn,2019,"Marvin's Mountaintop, Masontown, West Virginia, USA",39.55300,-79.90700,283,organizer_estimate,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-02-14,2019-02-18,town
+frostburn,2021,"Marvin's Mountaintop, Masontown, West Virginia, USA",39.55300,-79.90700,,,high,cancelled,https://web.archive.org/web/20201019010604/http://www.frostburn.org/,,,town
+frostburn,2022,"Marvin's Mountaintop, Masontown, West Virginia, USA",39.55300,-79.90700,,,high,held,https://web.archive.org/web/20220425215801/https://www.frostburn.org/,,,town
+frostburn,2023,"Marvin's Mountaintop, Masontown, West Virginia, USA",39.55300,-79.90700,,,high,held,https://web.archive.org/web/20230325202657/https://www.frostburn.org/,,,town
+frostburn,2024,"Marvin's Mountaintop, Masontown, West Virginia, USA",39.55300,-79.90700,,,high,held,https://web.archive.org/web/20240206223710/https://www.frostburn.org/,,,town
+frostburn,2025,"Marvin's Mountaintop, Masontown, West Virginia, USA",39.55300,-79.90700,,,high,held,https://web.archive.org/web/20250214162926/https://www.frostburn.org/,2025-02-13,2025-02-17,town
+hamburn,2019,"Hamburg, Germany",53.55000,9.99000,,,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-10-25,2019-10-27,town
+juhe_burn,2017,"Kisdorog, Tolna, Hungary",46.51000,18.32000,,,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,,,town
+juhe_burn,2019,"Kisdorog, Tolna, Hungary",46.51000,18.32000,120,organizer_estimate,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-09,,town
+love_burn,2014,"Virginia Key Beach Park, Miami, Florida, USA",25.73550,-80.16150,,,high,held,https://theloveburn.com/,,,site
+love_burn,2015,"Virginia Key Beach Park, Miami, Florida, USA",25.73550,-80.16150,,,high,held,https://web.archive.org/web/20150121035241/http://theloveburn.com/,2015-02-13,2015-02-16,site
+love_burn,2016,"Virginia Key Beach Park, Miami, Florida, USA",25.73550,-80.16150,,,high,held,https://web.archive.org/web/20160101180223/http://theloveburn.com/,2016-01-28,2016-01-31,site
+love_burn,2017,"Virginia Key Beach Park, Miami, Florida, USA",25.73550,-80.16150,,,high,held,https://web.archive.org/web/20170101211857/http://theloveburn.com/,,,site
+love_burn,2018,"Virginia Key Beach Park, Miami, Florida, USA",25.73550,-80.16150,,,high,held,https://web.archive.org/web/20171028210826/https://theloveburn.com/,2018-01-26,2018-01-28,site
+love_burn,2019,"Virginia Key Beach Park, Miami, Florida, USA",25.73550,-80.16150,3000,organizer_estimate,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-01-24,2019-01-28,site
+love_burn,2020,"Virginia Key Beach Park, Miami, Florida, USA",25.73550,-80.16150,,,high,held,https://web.archive.org/web/20211022031141/http://theloveburn.com/,2020-02,,site
+love_burn,2022,"Virginia Key Beach Park, Miami, Florida, USA",25.73550,-80.16150,,,high,held,https://web.archive.org/web/20220119190639/http://theloveburn.com/,2022-02-10,2022-02-13,site
+love_burn,2023,"Virginia Key Beach Park, Miami, Florida, USA",25.73550,-80.16150,,,high,held,https://web.archive.org/web/20230206150000/http://theloveburn.com/,2023-02-16,2023-02-19,site
+love_burn,2024,"Virginia Key Beach Park, Miami, Florida, USA",25.73550,-80.16150,,,high,held,https://web.archive.org/web/20240201215208/http://theloveburn.com/,2024-02-15,2024-02-18,site
+love_burn,2025,"Virginia Key Beach Park, Miami, Florida, USA",25.73550,-80.16150,,,high,held,https://web.archive.org/web/20250206190342/http://theloveburn.com/,2025-02-13,2025-02-16,site
+love_burn,2026,"Virginia Key Beach Park, Miami, Florida, USA",25.73550,-80.16150,,,high,scheduled_or_unverified,https://web.archive.org/web/20250805232138/http://theloveburn.com/,2026-02-05,2026-02-08,site
+myschievia,2005,"North Texas, USA",,,,,high,held,https://www.ntxb.org/,,,
+myschievia,2006,"North Texas, USA",,,,,high,held,https://www.ntxb.org/,,,
+myschievia,2007,"North Texas, USA",,,,,high,held,https://www.ntxb.org/,,,
+myschievia,2008,"North Texas, USA",,,,,high,held,https://www.ntxb.org/,,,
+myschievia,2009,"North Texas, USA",,,,,high,held,https://www.ntxb.org/,,,
+myschievia,2010,"North Texas, USA",,,,,high,held,https://www.ntxb.org/,,,
+myschievia,2011,"North Texas, USA",,,,,high,held,https://www.ntxb.org/,,,
+myschievia,2012,"North Texas, USA",,,,,high,held,https://www.ntxb.org/,,,
+myschievia,2013,"North Texas, USA",,,,,high,held,https://www.ntxb.org/,,,
+myschievia,2014,"North Texas, USA",,,,,high,held,https://www.ntxb.org/,,,
+myschievia,2015,"North Texas, USA",,,,,high,held,https://www.ntxb.org/,,,
+myschievia,2016,"North Texas, USA",,,,,high,held,https://www.ntxb.org/,,,
+myschievia,2017,"North Texas, USA",,,,,high,held,https://www.ntxb.org/,,,
+myschievia,2018,"North Texas, USA",,,,,high,held,https://www.ntxb.org/,,,
+myschievia,2019,"private land near Hughes Springs, Texas, USA",33.00000,-94.63000,,,high,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-10,,town
+myschievia,2020,"North Texas, USA",,,,,high,cancelled,https://www.ntxb.org/,,,
+myschievia,2021,"North Texas, USA",,,,,high,cancelled,https://www.ntxb.org/,,,
+myschievia,2022,"North Texas, USA",,,,,high,held,https://www.ntxb.org/,2022-10-06,2022-10-10,
+myschievia,2023,"North Texas, USA",,,,,high,held,https://www.ntxb.org/,,,
+myschievia,2024,"North Texas, USA",,,,,high,held,https://www.ntxb.org/,2024-10-10,2024-10-14,
+oblivium,2015,"Depew, Oklahoma, USA",35.90000,-96.51000,,,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,,,town
+oblivium,2019,"Depew, Oklahoma, USA",35.90000,-96.51000,350,attendance,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-06-06,2019-06-10,town
+otherworld,2009,"Lake Cowichan, British Columbia, Canada",48.82500,-124.05000,,,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,,,town
+otherworld,2019,"Lake Cowichan, British Columbia, Canada",48.82500,-124.05000,600,attendance,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-06-20,2019-06-24,town
+pagan_bunny_burn,2011,"Elk Creek, California, USA",39.60500,-122.53500,,,high,held,https://web.archive.org/web/20240909214630/https://www.paganbunnyburn.com/,,,town
+pagan_bunny_burn,2012,"Elk Creek, California, USA",39.60500,-122.53500,,,high,held,https://web.archive.org/web/20240909214630/https://www.paganbunnyburn.com/,,,town
+pagan_bunny_burn,2013,"Elk Creek, California, USA",39.60500,-122.53500,,,high,held,https://web.archive.org/web/20240909214630/https://www.paganbunnyburn.com/,,,town
+pagan_bunny_burn,2014,"Elk Creek, California, USA",39.60500,-122.53500,,,high,held,https://web.archive.org/web/20240909214630/https://www.paganbunnyburn.com/,,,town
+pagan_bunny_burn,2015,"Elk Creek, California, USA",39.60500,-122.53500,,,high,held,https://web.archive.org/web/20240909214630/https://www.paganbunnyburn.com/,,,town
+pagan_bunny_burn,2016,"Elk Creek, California, USA",39.60500,-122.53500,,,high,held,https://web.archive.org/web/20240909214630/https://www.paganbunnyburn.com/,,,town
+pagan_bunny_burn,2017,"Elk Creek, California, USA",39.60500,-122.53500,,,high,held,https://web.archive.org/web/20240909214630/https://www.paganbunnyburn.com/,,,town
+pagan_bunny_burn,2018,"Elk Creek, California, USA",39.60500,-122.53500,,,high,held,https://web.archive.org/web/20240909214630/https://www.paganbunnyburn.com/,,,town
+pagan_bunny_burn,2019,"Elk Creek, California, USA",39.60500,-122.53500,,,high,held,https://web.archive.org/web/20240909214630/https://www.paganbunnyburn.com/,2019-04-11,2019-04-14,town
+pagan_bunny_burn,2020,"Elk Creek, California, USA",39.60500,-122.53500,,,high,cancelled,https://web.archive.org/web/20240909214630/https://www.paganbunnyburn.com/,,,town
+pagan_bunny_burn,2021,"Elk Creek, California, USA",39.60500,-122.53500,,,high,cancelled,https://web.archive.org/web/20240909214630/https://www.paganbunnyburn.com/,,,town
+pagan_bunny_burn,2022,"Elk Creek, California, USA",39.60500,-122.53500,,,high,held,https://web.archive.org/web/20240909214630/https://www.paganbunnyburn.com/,,,town
+pagan_bunny_burn,2023,"Elk Creek, California, USA",39.60500,-122.53500,,,high,held,https://web.archive.org/web/20240909214630/https://www.paganbunnyburn.com/,2023-03-30,2023-04-02,town
+pagan_bunny_burn,2024,"Elk Creek, California, USA",39.60500,-122.53500,,,high,held,https://www.paganbunnyburn.com/,,,town
+pagan_bunny_burn,2025,"Elk Creek, California, USA",39.60500,-122.53500,,,high,held,https://www.paganbunnyburn.com/,2025-04-10,2025-04-13,town
+playa_del_fuego,1998,"Assateague Island, Maryland, USA",38.20000,-75.15000,20,organizer_estimate,medium,held,https://en.wikipedia.org/wiki/Playa_del_Fuego,1998-08-01,1998-08-02,area
+playa_del_fuego,1999,"Assateague Island, Maryland, USA",38.20000,-75.15000,30,organizer_estimate,medium,held,https://en.wikipedia.org/wiki/Playa_del_Fuego,1999-05-22,1999-05-23,area
+playa_del_fuego,2000,"Assateague Island, Maryland, USA",38.20000,-75.15000,70,organizer_estimate,medium,held,https://en.wikipedia.org/wiki/Playa_del_Fuego,2000-05-11,2000-05-13,area
+playa_del_fuego,2001,"Assateague Island, Maryland, USA",38.20000,-75.15000,150,organizer_estimate,medium,held,https://en.wikipedia.org/wiki/Playa_del_Fuego,2001-04-27,2001-04-29,area
+playa_del_fuego,2002,"Odessa, Delaware, USA",39.46000,-75.66000,382,attendance,medium,held,https://en.wikipedia.org/wiki/Playa_del_Fuego,2002-05-24,2002-05-27,town
+playa_del_fuego,2003,"Odessa, Delaware, USA",39.46000,-75.66000,,,medium,held,https://en.wikipedia.org/wiki/Playa_del_Fuego,2003-05-23,2003-05-26,town
+playa_del_fuego,2004,"Odessa, Delaware, USA",39.46000,-75.66000,,,medium,held,https://en.wikipedia.org/wiki/Playa_del_Fuego,2004-05-28,2004-05-31,town
+playa_del_fuego,2005,"Odessa, Delaware, USA",39.46000,-75.66000,625,attendance,medium,held,https://en.wikipedia.org/wiki/Playa_del_Fuego,2005-05-27,2005-05-30,town
+playa_del_fuego,2006,"Odessa, Delaware, USA",39.46000,-75.66000,800,organizer_estimate,medium,held,https://en.wikipedia.org/wiki/Playa_del_Fuego,2006-05-25,2006-05-29,town
+playa_del_fuego,2007,"Odessa, Delaware, USA",39.46000,-75.66000,800,attendance,medium,held,https://en.wikipedia.org/wiki/Playa_del_Fuego,2007-05-24,2007-05-28,town
+playa_del_fuego,2008,"Odessa, Delaware, USA",39.46000,-75.66000,1000,attendance,medium,held,https://en.wikipedia.org/wiki/Playa_del_Fuego,2008-05-22,2008-05-26,town
+playa_del_fuego,2009,"Odessa, Delaware, USA",39.46000,-75.66000,1000,attendance,medium,held,https://en.wikipedia.org/wiki/Playa_del_Fuego,2009-05-21,2009-05-25,town
+playa_del_fuego,2010,"Odessa, Delaware, USA",39.46000,-75.66000,1275,attendance,medium,held,https://en.wikipedia.org/wiki/Playa_del_Fuego,2010-05-27,2010-05-31,town
+playa_del_fuego,2011,"Odessa, Delaware, USA",39.46000,-75.66000,1275,attendance,medium,held,https://en.wikipedia.org/wiki/Playa_del_Fuego,2011-05-26,2011-05-30,town
+playa_del_fuego,2012,"Odessa, Delaware, USA",39.46000,-75.66000,1275,attendance,medium,held,https://en.wikipedia.org/wiki/Playa_del_Fuego,2012-05-24,2012-05-28,town
+playa_del_fuego,2013,"Odessa, Delaware, USA",39.46000,-75.66000,1275,attendance,medium,held,https://en.wikipedia.org/wiki/Playa_del_Fuego,2013-05-23,2013-05-27,town
+playa_del_fuego,2014,"Odessa, Delaware, USA",39.46000,-75.66000,1375,organizer_estimate,medium,held,https://en.wikipedia.org/wiki/Playa_del_Fuego,2014-05-22,2014-05-26,town
+playa_del_fuego,2015,"Odessa, Delaware, USA",39.46000,-75.66000,,,medium,held,https://en.wikipedia.org/wiki/Playa_del_Fuego,2015-05-21,2015-05-25,town
+playa_del_fuego,2016,"Odessa, Delaware, USA",39.46000,-75.66000,,,medium,held,https://en.wikipedia.org/wiki/Playa_del_Fuego,2016-05-26,2016-05-30,town
+playa_del_fuego,2017,"Odessa, Delaware, USA",39.46000,-75.66000,,,medium,held,https://en.wikipedia.org/wiki/Playa_del_Fuego,2017-05-25,2017-05-29,town
+playa_del_fuego,2018,"Tamaqua, Pennsylvania, USA",40.77700,-76.02300,,,medium,held,https://en.wikipedia.org/wiki/Playa_del_Fuego,2018-05-24,2018-05-28,site
+playa_del_fuego,2019,"Tamaqua, Pennsylvania, USA",40.77700,-76.02300,759,attendance,medium,held,https://en.wikipedia.org/wiki/Playa_del_Fuego,2019-05-23,2019-05-27,site
+playa_del_fuego,2019,"Tamaqua, Pennsylvania, USA",40.77700,-76.02300,811,tickets_sold,medium,held,https://en.wikipedia.org/wiki/Playa_del_Fuego,2019-05-23,2019-05-27,site
+playa_del_fuego,2020,"Tamaqua, Pennsylvania, USA",40.77700,-76.02300,,,medium,cancelled,https://en.wikipedia.org/wiki/Playa_del_Fuego,,,site
+playa_del_fuego,2021,"Tamaqua, Pennsylvania, USA",40.77700,-76.02300,,,medium,cancelled,https://en.wikipedia.org/wiki/Playa_del_Fuego,,,site
+playa_del_fuego,2022,"Tamaqua, Pennsylvania, USA",40.77700,-76.02300,836,attendance,medium,held,https://en.wikipedia.org/wiki/Playa_del_Fuego,2022-05-26,2022-05-30,site
+playa_del_fuego,2022,"Tamaqua, Pennsylvania, USA",40.77700,-76.02300,1077,tickets_sold,medium,held,https://en.wikipedia.org/wiki/Playa_del_Fuego,2022-05-26,2022-05-30,site
+playa_del_fuego,2023,"Tamaqua, Pennsylvania, USA",40.77700,-76.02300,,,high,held,https://web.archive.org/web/20230530061821/https://playadelfuego.org/,2023-05-25,2023-05-29,site
+playa_del_fuego,2024,"Tamaqua, Pennsylvania, USA",40.77700,-76.02300,,,high,held,https://web.archive.org/web/20240525121230/https://playadelfuego.org/,2024-05-23,2024-05-27,site
+playa_del_fuego,2025,"Tamaqua, Pennsylvania, USA",40.77700,-76.02300,,,high,held,https://web.archive.org/web/20250501201920/https://playadelfuego.org/,2025-05-22,2025-05-26,site
+playa_del_fuego,2026,"Tamaqua, Pennsylvania, USA",40.77700,-76.02300,,,medium,held,https://en.wikipedia.org/wiki/Playa_del_Fuego,2026-05-21,2026-05-25,site
+reclaimation,2012,"Marydell, Kentucky, USA",37.15000,-83.76000,,,high,held,https://web.archive.org/web/20190508203634/http://www.reclaimation.net/,,,town
+reclaimation,2013,"Marydell, Kentucky, USA",37.15000,-83.76000,,,high,held,https://web.archive.org/web/20190508203634/http://www.reclaimation.net/,,,town
+reclaimation,2014,"Marydell, Kentucky, USA",37.15000,-83.76000,,,high,held,https://web.archive.org/web/20190508203634/http://www.reclaimation.net/,,,town
+reclaimation,2015,"Marydell, Kentucky, USA",37.15000,-83.76000,,,high,held,https://web.archive.org/web/20190508203634/http://www.reclaimation.net/,,,town
+reclaimation,2016,"Marydell, Kentucky, USA",37.15000,-83.76000,,,high,held,https://web.archive.org/web/20190508203634/http://www.reclaimation.net/,,,town
+reclaimation,2017,"Marydell, Kentucky, USA",37.15000,-83.76000,,,high,held,https://web.archive.org/web/20190508203634/http://www.reclaimation.net/,,,town
+reclaimation,2018,"Marydell, Kentucky, USA",37.15000,-83.76000,,,high,held,https://web.archive.org/web/20190508203634/http://www.reclaimation.net/,,,town
+reclaimation,2019,"Marydell, Kentucky, USA",37.15000,-83.76000,,,high,held,https://web.archive.org/web/20190508203634/http://www.reclaimation.net/,2019-05-08,2019-05-13,town
+saft,2009,"Sedrun, Tujetsch, Graubünden, Switzerland",46.68330,8.76670,,,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,,,town
+saft,2019,"Sedrun, Tujetsch, Graubünden, Switzerland",46.68330,8.76670,100,organizer_estimate,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-03-21,2019-03-24,town
+saft,2020,"Sedrun, Tujetsch, Graubünden, Switzerland",46.68330,8.76670,,,medium,unknown,https://web.archive.org/web/20200813023104/https://www.vfbss.org/,2020-03-19,2020-03-22,town
+saguaro_man,2011,"near Willcox, Arizona, USA",32.25200,-109.83200,,,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,,,town
+saguaro_man,2019,"near Willcox, Arizona, USA",32.25200,-109.83200,1030,attendance,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-05-01,2019-05-05,town
+saguaro_man,2020,"near Willcox, Arizona, USA",32.25200,-109.83200,,,high,cancelled,https://web.archive.org/web/20201029013304/https://www.saguaroman.net/,2020-10-14,2020-10-18,town
+saguaro_man,2021,"near Willcox, Arizona, USA",32.25200,-109.83200,,,high,held,https://web.archive.org/web/20210517191038/https://www.saguaroman.net/,2021-10-13,2021-10-17,town
+sunraiz,2018,"Rask Mølle, Denmark",55.87000,9.65000,,,high,held,https://web.archive.org/web/20190821115321/https://sunraiz.net/,2018-05-29,2018-06-03,town
+sunraiz,2019,"Rask Mølle, Denmark",55.87000,9.65000,140,organizer_estimate,medium,unknown,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,,,town
+that_thing_at_the_cabin,2012,"Le Sueur, Minnesota, USA",44.46000,-93.91000,,,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,,,town
+that_thing_at_the_cabin,2019,"Le Sueur, Minnesota, USA",44.46000,-93.91000,350,attendance,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-07-18,2019-07-21,town
+that_thing_at_the_cabin,2020,"Le Sueur, Minnesota, USA",44.46000,-93.91000,200,capacity,high,held,https://www.ttatc.com/category/ttatc10/,2020-08-27,2020-08-30,town
+that_thing_at_the_cabin,2021,"Le Sueur, Minnesota, USA",44.46000,-93.91000,,,high,held,https://www.ttatc.com/category/ttatc11/,,,town
+that_thing_at_the_cabin,2022,"Le Sueur, Minnesota, USA",44.46000,-93.91000,,,high,held,https://www.ttatc.com/category/ttatc12/,2022-07-14,2022-07-17,town
+that_thing_at_the_cabin,2023,"Le Sueur, Minnesota, USA",44.46000,-93.91000,,,high,held,https://www.ttatc.com/category/ttatc13/,2023-07-12,2023-07-16,town
+that_thing_at_the_cabin,2024,"Le Sueur, Minnesota, USA",44.46000,-93.91000,,,high,held,https://www.ttatc.com/category/ttatc14/,2024-07-17,2024-07-21,town
+that_thing_at_the_cabin,2025,"Le Sueur, Minnesota, USA",44.46000,-93.91000,400,capacity,high,held,https://www.ttatc.com/,,,town
+that_thing_at_the_cabin,2026,"Le Sueur, Minnesota, USA",44.46000,-93.91000,,,high,scheduled_or_unverified,https://www.ttatc.com/,2026-06-10,2026-06-14,town
+the_winter_hummer_chamonix_ski_burning,2019,"Chamonix-Mont-Blanc, Haute-Savoie, France",45.92000,6.87000,50,organizer_estimate,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-03-11,2019-03-17,town
+this_event_is_cancelled,2014,"Eskridge, Kansas, USA",38.86000,-96.10000,,,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,,,town
+this_event_is_cancelled,2019,"Eskridge, Kansas, USA",38.86000,-96.10000,151,attendance,low,unknown,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-08,,town
+what_the_farm,2017,"Vauxaillon, Aisne, France",,,,,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,,,
+what_the_farm,2019,"Vauxaillon, Aisne, France",,,60,organizer_estimate,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-05-31,2019-06-02,
+where_the_sheep_sleep,2016,"Kootwijk, Veluwe, Netherlands",52.18000,5.78000,750,organizer_estimate,high,held,https://sheep.burningman.nl/event/,,,area
+where_the_sheep_sleep,2017,"Apeldoorn, Gelderland, Netherlands",52.21000,5.97000,,,medium,held,https://en.wikipedia.org/wiki/Where_the_Sheep_Sleep,,,town
+where_the_sheep_sleep,2018,"Apeldoorn, Gelderland, Netherlands",52.21000,5.97000,,,medium,held,https://en.wikipedia.org/wiki/Where_the_Sheep_Sleep,,,town
+where_the_sheep_sleep,2019,"Zeewolde, Flevoland, Netherlands",52.33000,5.55000,,,high,held,https://web.archive.org/web/20190718022238/http://sheep.burningman.nl/,2019-06-27,2019-07-01,town
+where_the_sheep_sleep,2022,"Zeewolde, Flevoland, Netherlands",52.33000,5.55000,,,high,held,https://sheep.burningman.nl/,,,town
+where_the_sheep_sleep,2023,"Zeewolde, Flevoland, Netherlands",52.33000,5.55000,,,high,held,https://web.archive.org/web/20230610184537/https://sheep.burningman.nl/,2023-06-22,2023-06-26,town
+where_the_sheep_sleep,2025,Netherlands,,,,,high,held,https://web.archive.org/web/20250604180309/https://sheep.burningman.nl/,2025-06-19,2025-06-23,
+wickerman,2008,"Artemas, Pennsylvania, USA",39.79000,-78.42000,,,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,,,town
+wickerman,2019,"Artemas, Pennsylvania, USA",39.79000,-78.42000,1500,attendance,high,held,https://web.archive.org/web/20190528124209/http://Wickermanburn.org,2019-06-20,2019-06-23,town
+youtopia,2011,"Pauma Valley, California, USA",33.30000,-116.98000,,,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,,,town
+youtopia,2019,"Pauma Valley, California, USA",33.30000,-116.98000,,,high,held,https://web.archive.org/web/20191016030825/https://sdyoutopia.com/,2019-10-23,2019-10-27,town
+youtopia,2022,"Jacumba, California, USA",32.62000,-116.19000,,,high,held,https://web.archive.org/web/20221002232837/https://sdyoutopia.com/,2022-10-19,2022-10-23,town
+youtopia,2023,"Jacumba, California, USA",32.62000,-116.19000,,,high,held,https://web.archive.org/web/20231024100419/https://sdyoutopia.com/,2023-10-18,2023-10-22,town
+youtopia,2025,"Jacumba, California, USA",32.62000,-116.19000,,,high,held,https://web.archive.org/web/20251006113250/https://sdyoutopia.com/,2025-10-15,2025-10-19,town

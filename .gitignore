@@ -7,3 +7,4 @@ exports/
 
 viz/node_modules/
 viz/dist/
+viz/.wrangler/

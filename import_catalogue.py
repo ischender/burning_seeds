@@ -14,10 +14,18 @@ import json
 import re
 import unicodedata
 import urllib.request
+from datetime import datetime
 from pathlib import Path
 from typing import Iterable
 
-from starter_utils import candidate_path, ensure_parent, utc_stamp
+from starter_utils import (
+    EDITION_FIELDS,
+    EVENT_FIELDS,
+    OBS_FIELDS,
+    candidate_path,
+    ensure_parent,
+    utc_stamp,
+)
 
 
 SHEET_ID = (
@@ -34,43 +42,6 @@ SOURCE_URL = (
     f"{SHEET_ID}/edit#gid=1584735033"
 )
 
-EVENT_FIELDS = [
-    "event_id",
-    "name",
-    "country",
-    "first_year",
-    "parent_event_id",
-    "official_status",
-    "notes",
-]
-
-EDITION_FIELDS = [
-    "event_id",
-    "year",
-    "location",
-    "lat",
-    "lon",
-    "population",
-    "population_metric",
-    "confidence",
-    "status",
-    "source_url",
-]
-
-OBS_FIELDS = [
-    "observation_id",
-    "event_id",
-    "year",
-    "field",
-    "value",
-    "metric",
-    "source_url",
-    "source_type",
-    "retrieved_at",
-    "confidence",
-    "raw_text",
-    "notes",
-]
 
 
 def slugify(value: str) -> str:
@@ -149,6 +120,39 @@ def parse_size(
         str(nums[0]),
         f"Catalogue size as published: {raw}",
     )
+
+
+MONTHS = {
+    name: number
+    for number, name in enumerate(
+        ("january", "february", "march", "april", "may", "june", "july",
+         "august", "september", "october", "november", "december"),
+        start=1,
+    )
+}
+
+
+def parse_catalogue_date(value: str, year: int = 2019) -> str:
+    """Return an ISO date, a YYYY-MM date for phrases like "early October", or "".
+
+    Vague phrases keep month precision so the catalogue's uncertainty survives.
+    """
+    text = re.sub(r",(?=\d)", ", ", (value or "").strip())
+
+    try:
+        return datetime.strptime(text, "%B %d, %Y").date().isoformat()
+    except ValueError:
+        pass
+
+    match = re.fullmatch(
+        r"(?:early|mid|late)?-?\s*([a-z]+)",
+        text.lower(),
+    )
+
+    if match and match[1] in MONTHS:
+        return f"{year}-{MONTHS[match[1]]:02d}"
+
+    return ""
 
 
 def fetch_csv(url: str) -> str:
@@ -405,6 +409,12 @@ def normalize(
                 "catalogue_snapshot"
             ),
             "source_url": SOURCE_URL,
+            "start_date": parse_catalogue_date(
+                pick(row, "START DATE")
+            ),
+            "end_date": parse_catalogue_date(
+                pick(row, "END DATE")
+            ),
         })
 
         observations.append({
@@ -468,6 +478,7 @@ def write_csv(
         writer = csv.DictWriter(
             fh,
             fieldnames=fields,
+            restval="",
         )
 
         writer.writeheader()

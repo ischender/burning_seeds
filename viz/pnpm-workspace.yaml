@@ -1,0 +1,7 @@
+# Makes viz/ its own pnpm root, so pnpm never attaches it to a workspace further up the tree.
+packages:
+  - .
+# wrangler's bundler and local runtime need their install scripts.
+allowBuilds:
+  esbuild: true
+  workerd: true

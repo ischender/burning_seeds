@@ -1,0 +1,81 @@
+event_id,year,location,lat,lon,population,population_metric,confidence,status,source_url,start_date,end_date,location_precision
+borealis_burn,2018,"Andres Institute of Art, 98 Route 13, Brookline, New Hampshire, USA",42.7373,-71.6659,,,high,held,https://web.archive.org/web/20180112135809/http://borealisarts.org/,2018-01-11,2018-01-15,town
+borealis_burn,2019,"Andres Institute of Art, 98 Route 13, Brookline, New Hampshire, USA",42.7373,-71.6659,,,high,held,https://web.archive.org/web/20190201000000/http://borealisarts.org/,2019-02-01,2019-02-04,town
+borealis_burn,2020,"Andres Institute of Art, 98 Route 13, Brookline, New Hampshire, USA",42.7373,-71.6659,,,high,held,https://web.archive.org/web/20210201000000/http://borealisarts.org/,2020-01-24,2020-01-27,town
+fuegoaustral,2016,"Buenos Aires Province, Argentina",,,,,high,held,https://web.archive.org/web/20160301000000/http://fuegoaustral.org/,2016-03-23,2016-03-27,
+fuegoaustral,2017,"Buenos Aires Province, Argentina",,,,,high,held,https://web.archive.org/web/20170201000000/http://fuegoaustral.org/,2017-02-24,2017-02-28,
+fuegoaustral,2018,"Buenos Aires Province, Argentina",,,,,high,held,https://web.archive.org/web/20180115000000/http://fuegoaustral.org/,2018-03-28,2018-04-02,
+fuegoaustral,2019,"Rauch area, Buenos Aires Province, Argentina",-36.7736,-58.9872,547,attendance,high,held,https://fuegoaustral.org/historia/,2019-03-01,2019-03-05,town
+fuegoaustral,2020,"Buenos Aires Province, Argentina",,,547,organizer_estimate,high,held,https://fuegoaustral.org/historia/,2020-02-21,2020-02-26,
+fuegoaustral,2021,,,,,,high,cancelled,https://web.archive.org/web/20211201000000/http://fuegoaustral.org/,,,
+fuegoaustral,2022,"Buenos Aires Province, Argentina (new location)",,,743,attendance,high,held,https://fuegoaustral.org/historia/,2022-02-25,2022-03-02,
+fuegoaustral,2023,"Buenos Aires Province, Argentina",,,,,high,held,https://web.archive.org/web/20230115000000/https://fuegoaustral.org/,2023-02-17,2023-02-21,
+fuegoaustral,2024,"Buenos Aires Province, Argentina",,,,,high,held,https://web.archive.org/web/20240110000000/https://fuegoaustral.org/,2024-02-09,2024-02-13,
+fuegoaustral,2025,"Buenos Aires Province, Argentina",,,,,high,held,https://web.archive.org/web/20250115000000/https://fuegoaustral.org/,2025-02-28,2025-03-04,
+colorado_burnal_equinox,2019,"Bailey, Colorado, USA",39.4076,-105.4772,91,attendance,high,held,https://denverburners.org/wp-content/uploads/2019/10/Colorado-Burnal-Equinox-2019_-Shamfrost-Afterburn-Report.pdf,2019-03-15,2019-03-17,town
+colorado_burnal_equinox,2019,"Bailey, Colorado, USA",39.4076,-105.4772,95,tickets_sold,high,held,https://denverburners.org/wp-content/uploads/2019/10/Colorado-Burnal-Equinox-2019_-Shamfrost-Afterburn-Report.pdf,2019-03-15,2019-03-17,town
+colorado_burnal_equinox,2020,"Bailey, Colorado, USA",39.4076,-105.4772,,,high,cancelled,https://web.archive.org/web/20210215000000/https://denverburners.org/events/colorado-burnal-equinox/,2020-03-20,2020-03-22,town
+colorado_burnal_equinox,2022,"Bailey, Colorado, USA",39.4076,-105.4772,95,attendance,high,held,https://denverburners.org/wp-content/uploads/2022/07/Colorado-Burnal-Equinox-Afterburn-2022.pdf,2022-04-08,2022-04-10,town
+colorado_burnal_equinox,2022,"Bailey, Colorado, USA",39.4076,-105.4772,118,tickets_sold,high,held,https://denverburners.org/wp-content/uploads/2022/07/Colorado-Burnal-Equinox-Afterburn-2022.pdf,2022-04-08,2022-04-10,town
+colorado_burnal_equinox,2023,"Bailey, Colorado, USA",39.4076,-105.4772,107,attendance,high,held,https://denverburners.org/wp-content/uploads/2023/09/Colorado-Burnal-Equinox-Afterburn-2023.pdf,2023-04-21,2023-04-23,town
+colorado_burnal_equinox,2023,"Bailey, Colorado, USA",39.4076,-105.4772,136,tickets_sold,high,held,https://denverburners.org/wp-content/uploads/2023/09/Colorado-Burnal-Equinox-Afterburn-2023.pdf,2023-04-21,2023-04-23,town
+colorado_burnal_equinox,2024,"Bailey, Colorado, USA",39.4076,-105.4772,,,high,held,https://web.archive.org/web/20240215000000/https://denverburners.org/events/colorado-burnal-equinox/,2024-04-19,2024-04-22,town
+colorado_burnal_equinox,2025,"Bailey, Colorado, USA",39.4076,-105.4772,,,high,held,https://web.archive.org/web/20250215000000/https://denverburners.org/events/colorado-burnal-equinox/,2025-04-11,2025-04-13,town
+sideburn,2019,"Hurricane Mills, Tennessee, USA",35.8803,-87.7936,,,high,held,https://web.archive.org/web/20190401000000/https://sideburn.online/,2019-04-04,2019-04-07,town
+rabbit_soup_tx,2019,"Dripping Springs, Texas, USA",30.1902,-98.0867,,,medium,unknown,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-04-19,2019-04-21,town
+barcelona_burning_bash,2019,"Castle near Alcover, Catalonia, Spain (secret location)",41.2636,1.1726,,,medium,held,https://web.archive.org/web/20190401000000/https://www.barcelonaburningbash.com/,2019-05-01,2019-05-05,town
+barcelona_burning_bash,2026,"Catalonia, Spain",,,,,high,scheduled_or_unverified,https://www.barcelonaburningbash.com/,2026-05-08,2026-05-10,
+naked_burn,2019,"Lake Como Co-op Family Nudist Resort, Lutz, Florida, USA",28.1511,-82.4615,200,capacity,high,held,https://web.archive.org/web/20190501000000/https://www.lakecomonaturally.com/burn0.html,2019-05-03,2019-05-05,town
+b_u_r_n_burn,2019,"Ottawa, Illinois, USA",41.3456,-88.8426,,,medium,unknown,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-05-16,2019-05-19,town
+b_u_r_n_burn,2025,"Camp Tuckabatchee, Ottawa, Illinois, USA",41.3456,-88.8426,,,high,held,https://www.burningmanchicago.org/burn-burn-new,2025-09-17,2025-09-21,town
+b_u_r_n_burn,2026,"Camp Tuckabatchee, Ottawa, Illinois, USA",41.3456,-88.8426,,,high,scheduled_or_unverified,https://www.burningmanchicago.org/burn-burn-new,2026-05-13,2026-05-17,town
+creme_brulee,2019,"La Souterraine, Nouvelle-Aquitaine, France",46.2370,1.4850,,,medium,unknown,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-05-22,2019-05-26,town
+serendipity,2019,"Middle Tennessee (near Morrison), Tennessee, USA",35.6001,-85.9072,,,high,held,https://web.archive.org/web/20190501000000/http://www.serendipityburn.com/,2019-05-23,2019-05-27,town
+urban_burn_stockholm,2019,"Stockholm, Sweden",59.3293,18.0686,,,medium,unknown,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,,,town
+sn_rg,2019,"Spicer Ranch, Beatty, Nevada, USA",36.9094,-116.7597,,,high,held,https://web.archive.org/web/20190601000000/http://sn-rg.com/,2019-06-06,2019-06-09,town
+sn_rg,2020,"Spicer Ranch, Beatty, Nevada, USA",36.9094,-116.7597,,,high,cancelled,https://web.archive.org/web/20200810000000/http://sn-rg.com/,2020-09-24,2020-09-27,town
+lakes_of_fire,2019,"Lucky Lake Campground, Rothbury, Michigan, USA",43.5075,-86.3487,,,high,held,https://web.archive.org/web/20190601000000/https://lakesoffire.org/,2019-06-12,2019-06-16,town
+lakes_of_fire,2019,"Lucky Lake Campground, Rothbury, Michigan, USA",43.5075,-86.3487,2300,tickets_sold,high,held,https://lakesoffire.org/the-event/history/,2019-06-12,2019-06-16,town
+lakes_of_fire,2020,Online (Lakes in Place),,,,,high,virtual,https://web.archive.org/web/20200601000000/https://lakesoffire.org/,2020-06-15,2020-06-21,
+lakes_of_fire,2021,"Rothbury, Michigan, USA",43.5075,-86.3487,,,high,cancelled,https://web.archive.org/web/20210601000000/https://lakesoffire.org/,,,town
+lakes_of_fire,2022,"Lucky Lake Campground, Rothbury, Michigan, USA",43.5075,-86.3487,,,high,held,https://web.archive.org/web/20220601000000/https://lakesoffire.org/,2022-06-15,2022-06-19,town
+lakes_of_fire,2022,"Lucky Lake Campground, Rothbury, Michigan, USA",43.5075,-86.3487,2300,tickets_sold,high,held,https://lakesoffire.org/the-event/history/,2022-06-15,2022-06-19,town
+lakes_of_fire,2023,"Lucky Lake Campground, Rothbury, Michigan, USA",43.5075,-86.3487,,,high,held,https://web.archive.org/web/20230601000000/https://lakesoffire.org/,2023-07-12,2023-07-16,town
+lakes_of_fire,2023,"Lucky Lake Campground, Rothbury, Michigan, USA",43.5075,-86.3487,2305,tickets_sold,high,held,https://lakesoffire.org/the-event/history/,2023-07-12,2023-07-16,town
+lakes_of_fire,2024,"Lucky Lake Campground, 3977 W. Wilke Rd., Montague, Michigan, USA",43.4225,-86.3587,,,high,held,https://web.archive.org/web/20240601000000/https://lakesoffire.org/,2024-07-17,2024-07-21,town
+lakes_of_fire,2024,"Lucky Lake Campground, Montague, Michigan, USA",43.4225,-86.3587,2369,tickets_sold,high,held,https://lakesoffire.org/the-event/history/,2024-07-17,2024-07-21,town
+lakes_of_fire,2025,"Lucky Lake Campground, Montague, Michigan, USA",43.4225,-86.3587,,,high,held,https://web.archive.org/web/20250601000000/https://lakesoffire.org/,2025-07-16,2025-07-20,town
+lakes_of_fire,2025,"Lucky Lake Campground, Montague, Michigan, USA",43.4225,-86.3587,2504,tickets_sold,high,held,https://lakesoffire.org/the-event/history/,2025-07-16,2025-07-20,town
+lakes_of_fire,2026,"Luther, Michigan, USA (new land)",,,,,medium,scheduled_or_unverified,https://lakesoffire.org/,2026-10-09,2026-10-11,
+l_osstidburn,2019,"Mansonville, Quebec, Canada",45.0500,-72.4000,,,medium,unknown,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-06-19,2019-06-24,town
+bivrost,2019,"Vest-Agder, Norway",,,,,medium,unknown,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-06-20,2019-06-23,
+degosie_jani,2019,"Rafa Republic, Latvia",,,,,medium,unknown,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-06-21,2019-06-24,
+modifyre,2019,"Inglewood, Queensland, Australia",-28.4167,151.0833,,,medium,unknown,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-07-03,2019-07-08,town
+modifyre,2021,"Yelarbon State Forest, Queensland, Australia",-28.5833,150.9833,,,high,held,https://web.archive.org/web/20210701000000/https://www.modifyre.org/,2021-07-07,2021-07-11,town
+modifyre,2026,"Gootchie Creek Escape, Queensland, Australia",-25.7500,152.6500,,,high,scheduled_or_unverified,https://www.modifyre.org/,2026-07-31,2026-08-03,town
+burning_down_the_river,2019,"Belle, Missouri, USA",38.2859,-91.7207,,,medium,unknown,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,,,town
+transformus,2019,"Marvin's Mountaintop, Masontown, West Virginia, USA",39.5517,-79.9000,,,high,held,https://web.archive.org/web/20190701000000/https://transformus.com/,2019-07-18,2019-07-22,town
+transformus,2020,"Marvin's Mountaintop, Masontown, West Virginia, USA",39.5517,-79.9000,,,high,cancelled,https://web.archive.org/web/20200601000000/https://transformus.com/,,,town
+contraburn,2019,"Kinneret (Sea of Galilee), Galilee, Israel",32.8000,35.5833,,,medium,unknown,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-08-26,2019-09-02,area
+pyraegea,2019,"Kos, Greece",36.8937,27.2877,,,medium,unknown,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-09,2019-09,town
+pyraegea,2024,"Sporades islands (sailing flotilla), Greece",,,,,high,held,https://pyraegea.org/,2024-09-07,2024-09-17,
+schloss_schonburn,2019,"Schloss Wetzlas, Niederosterreich, Austria",48.6167,15.6000,,,high,held,https://web.archive.org/web/20190901000000/http://www.burners.at/wetzlas/doku.php,2019-09-18,2019-09-22,region
+schloss_schonburn,2020,"Schloss Wetzlas, Niederosterreich, Austria",48.6167,15.6000,,,medium,unknown,https://web.archive.org/web/20200901000000/http://www.burners.at/wetzlas/doku.php,2020-09-23,2020-09-27,region
+schloss_schonburn,2025,Austria,,,,,medium,held,https://www.burners.at/,2025-08-06,2025-08-10,
+schloss_schonburn,2026,Austria,,,,,medium,scheduled_or_unverified,https://www.burners.at/,2026-08-05,2026-08-09,
+mosaic_experiment,2019,"Reclaim (former strip-mine), Rutland, Ohio, USA",39.0434,-82.1399,,,high,held,https://web.archive.org/web/20190901000000/https://www.mosaicexperiment.com/,2019-10-03,2019-10-06,town
+mosaic_experiment,2020,Online (discord) - Through The Looking Glass,,,,,high,virtual,https://web.archive.org/web/20200901000000/https://www.mosaicexperiment.com/,2020-10-01,2020-10-04,
+mosaic_experiment,2021,Online (digital burn),,,,,high,virtual,https://web.archive.org/web/20210901000000/https://www.mosaicexperiment.com/,2021-09-16,2021-09-19,
+mosaic_experiment,2022,"Reclaim (former strip-mine), Rutland, Ohio, USA",39.0434,-82.1399,,,high,held,https://web.archive.org/web/20220901000000/https://www.mosaicexperiment.com/,2022-09-29,2022-10-02,town
+mosaic_experiment,2023,"Reclaim (former strip-mine), Rutland, Ohio, USA",39.0434,-82.1399,,,high,held,https://web.archive.org/web/20230901000000/https://www.mosaicexperiment.com/,2023-09-28,2023-10-01,town
+mosaic_experiment,2024,"Reclaim (former strip-mine), Rutland, Ohio, USA",39.0434,-82.1399,,,high,held,https://web.archive.org/web/20240901000000/https://www.mosaicexperiment.com/,2024-10-03,2024-10-06,town
+mosaic_experiment,2025,"Reclaim (former strip-mine), Rutland, Ohio, USA",39.0434,-82.1399,,,high,held,https://web.archive.org/web/20250901000000/https://www.mosaicexperiment.com/,2025-10-02,2025-10-05,town
+mosaic_experiment,2026,"Reclaim (former strip-mine), Rutland, Ohio, USA",39.0434,-82.1399,,,medium,held,https://www.mosaicexperiment.com/,,,town
+hearthsophyre,2019,"Conesville, Iowa, USA",41.3836,-91.2968,,,medium,unknown,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-10,2019-10,town
+hearthsophyre,2026,"Conesville Event Grounds & Dragway, 18745 IA-70, Conesville, Iowa, USA",41.3836,-91.2968,,,high,scheduled_or_unverified,https://hearthsophyre.org/,2026-09-24,2026-09-27,town
+burning_sand,2019,"San Vito lo Capo, Sicily, Italy",38.1747,12.7355,,,medium,unknown,https://web.archive.org/web/20191001000000/https://www.burningsand.it/,2019-10,2019-10,town
+burning_man_2_0,2019,Second Life (virtual world) - 'Octoburn',,,,,medium,virtual,https://web.archive.org/web/20191018212925/https://www.burn2.org/burn2-2019-metamorphoses-is-coming/,2019-10,2019-10,
+afterburn,2019,"Bartow, Florida, USA",27.8964,-81.8431,,,medium,unknown,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-11,2019-11,town
+afterburn,2024,"Florida, USA",,,,,high,cancelled,https://burntoranges.org/news-updates/,,,
+afterburn,2025,"Camp La Llanada, Lake Wales, Florida, USA",27.9000,-81.5833,,,high,held,https://burntoranges.org/news-updates/,2025-11-13,2025-11-16,town
+afterburn,2026,"Camp La Llanada, Lake Wales, Florida, USA",27.9000,-81.5833,,,high,scheduled_or_unverified,https://burntoranges.org/2026/03/05/florida-afterburn-2026-dates-theme-announcement/,2026-11-13,2026-11-15,town

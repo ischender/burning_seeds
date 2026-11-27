@@ -1,0 +1,110 @@
+event_id,year,location,lat,lon,population,population_metric,confidence,status,source_url,start_date,end_date,location_precision
+aarhus_burns,2019,"Aarhus, Denmark",56.1629,10.2039,500,organizer_estimate,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-06-09,2019-06-16,town
+aftermath,2019,"Riebeek-Kasteel, Western Cape, South Africa",-33.3833,18.9,199,organizer_estimate,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-09-20,2019-09-23,town
+alchemy,2007,"Summerville, Georgia, USA",34.48,-85.35,350,organizer_estimate,medium,held,https://alchemyburn.com/about/history,,,town
+alchemy,2019,"Summerville, Georgia, USA",34.48,-85.35,2200,organizer_estimate,medium,unknown,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-10-03,2019-10-06,town
+alchemy,2021,,,,,,medium,cancelled,https://web.archive.org/web/2021/https://alchemyburn.com/,,,
+alchemy,2022,"Georgia, USA",,,,,medium,held,https://web.archive.org/web/2021/https://alchemyburn.com/,,,
+alchemy,2023,"Georgia, USA",,,,,medium,held,https://web.archive.org/web/2023/https://alchemyburn.com/,2023-10,,
+alchemy,2024,"Georgia, USA",,,,,medium,held,https://web.archive.org/web/2024/https://alchemyburn.com/,,,
+alchemy,2025,"8700 Campbellton Fairburn Rd, Fairburn, Georgia, USA",33.566,-84.6,,,high,held,https://alchemyburn.com/,2025-10,,town
+alchemy,2026,,,,,,high,cancelled,https://alchemyburn.com/news/2026/alchemy-2026,,,
+apogaea,2004,"near Paonia, Colorado, USA",38.868,-107.592,,,medium,held,https://en.wikipedia.org/wiki/Apogaea,2004-07-16,2004-07-19,town
+apogaea,2015,,,,,,medium,cancelled,https://en.wikipedia.org/wiki/Apogaea,,,
+apogaea,2018,"Valdez, Colorado, USA",37.1222,-104.7083,1295,tickets_sold,high,held,https://apogaea.com/wp-content/uploads/2022/03/2018-apogaea-afterburn-report.pdf,2018-06-07,2018-06-10,area
+apogaea,2019,"Valdez, Colorado, USA",37.1222,-104.7083,1402,tickets_sold,high,held,https://apogaea.com/wp-content/uploads/2022/03/2019-apogaea-afterburn-report.pdf,2019-06-06,2019-06-09,area
+apogaea,2019,"Valdez, Colorado, USA",37.1222,-104.7083,2000,capacity,high,held,https://apogaea.com/wp-content/uploads/2022/03/2019-apogaea-afterburn-report.pdf,2019-06-06,2019-06-09,area
+apogaea,2020,,,,,,high,cancelled,https://apogaea.com/wp-content/uploads/2022/03/2019-apogaea-afterburn-report.pdf,,,
+apogaea,2021,,,,,,medium,cancelled,https://en.wikipedia.org/wiki/Apogaea,,,
+apogaea,2022,"Valdez, Colorado, USA",37.1222,-104.7083,,,medium,held,https://en.wikipedia.org/wiki/Apogaea,2022-06-09,2022-06-12,area
+apogaea,2024,"Valdez (Trinidad), Colorado, USA",37.1222,-104.7083,,,high,held,https://apogaea.com/wp-content/uploads/2025/05/apogaea-afterburn-report-2024.pdf,2024-06-05,2024-06-09,area
+bare_burn,2019,"Los Gatos, California, USA",37.235,-121.962,,,medium,unknown,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,,,town
+blazing_swan,2014,"Lake Jilakin, Kulin, Western Australia, Australia",-32.66667,118.15,1400,attendance,medium,held,https://en.wikipedia.org/wiki/Blazing_Swan,2014-04-24,2014-04-28,town
+blazing_swan,2015,"Lake Jilakin, Kulin, Western Australia, Australia",-32.66667,118.15,1900,attendance,medium,held,https://en.wikipedia.org/wiki/Blazing_Swan,2015-04-01,2015-04-07,town
+blazing_swan,2016,"Lake Jilakin, Kulin, Western Australia, Australia",-32.66667,118.15,2500,attendance,medium,held,https://en.wikipedia.org/wiki/Blazing_Swan,2016-03-23,2016-03-29,town
+blazing_swan,2017,"Lake Jilakin, Kulin, Western Australia, Australia",-32.66667,118.15,2700,attendance,medium,held,https://en.wikipedia.org/wiki/Blazing_Swan,2017-04-12,2017-04-18,town
+blazing_swan,2018,"Lake Jilakin, Kulin, Western Australia, Australia",-32.66667,118.15,3200,attendance,medium,held,https://en.wikipedia.org/wiki/Blazing_Swan,2018-03-28,2018-04-03,town
+blazing_swan,2019,"Lake Jilakin, Kulin, Western Australia, Australia",-32.66667,118.15,3000,attendance,medium,held,https://en.wikipedia.org/wiki/Blazing_Swan,2019-04-17,2019-04-23,town
+blazing_swan,2020,,,,,,medium,cancelled,https://en.wikipedia.org/wiki/Blazing_Swan,2020-04-08,2020-04-14,
+blazing_swan,2021,"Lake Jilakin, Kulin, Western Australia, Australia",-32.66667,118.15,1500,attendance,medium,held,https://en.wikipedia.org/wiki/Blazing_Swan,2021-04-01,2021-04-06,town
+blazing_swan,2022,,,,,,medium,cancelled,https://en.wikipedia.org/wiki/Blazing_Swan,2022-04-13,2022-04-19,
+blazing_swan,2023,"Lake Jilakin, Kulin, Western Australia, Australia",-32.66667,118.15,3000,attendance,medium,held,https://en.wikipedia.org/wiki/Blazing_Swan,2023-04-05,2023-04-11,town
+blazing_swan,2024,"Lake Jilakin, Kulin, Western Australia, Australia",-32.66667,118.15,3000,attendance,medium,held,https://en.wikipedia.org/wiki/Blazing_Swan,2024-03-27,2024-04-02,town
+blazing_swan,2025,"Lake Jilakin, Kulin, Western Australia, Australia",-32.66667,118.15,3000,attendance,medium,held,https://en.wikipedia.org/wiki/Blazing_Swan,2025-04-16,2025-04-22,town
+blazing_swan,2026,"Lake Jilakin, Kulin, Western Australia, Australia",-32.66667,118.15,,,medium,scheduled_or_unverified,https://en.wikipedia.org/wiki/Blazing_Swan,2026-04-01,2026-04-07,town
+burn2_winter_burn,2019,Second Life (virtual world),,,,,medium,virtual,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-01-25,2019-01-27,
+burn2_winter_burn,2020,Second Life (virtual world),,,,,medium,virtual,https://web.archive.org/web/20241222133449/https://www.burn2.org/,,,
+burn2_winter_burn,2021,Second Life (virtual world),,,,,medium,virtual,https://web.archive.org/web/20241222133449/https://www.burn2.org/,,,
+burn2_winter_burn,2022,Second Life (virtual world),,,,,medium,virtual,https://web.archive.org/web/20241222133449/https://www.burn2.org/,,,
+burn2_winter_burn,2023,Second Life (virtual world),,,,,medium,virtual,https://web.archive.org/web/20241222133449/https://www.burn2.org/,,,
+burn2_winter_burn,2024,Second Life (virtual world),,,,,medium,virtual,https://web.archive.org/web/20241222133449/https://www.burn2.org/,,,
+burn2_winter_burn,2025,Second Life (virtual world),,,,,medium,virtual,https://web.archive.org/web/20241222133449/https://www.burn2.org/,,,
+burning_leaves,2019,"Mohnton, Pennsylvania, USA",40.286,-75.984,150,organizer_estimate,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-10-17,2019-10-20,town
+canberra_burner_winter_solstice,2019,"Canberra, Australian Capital Territory, Australia",-35.28,149.13,,,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-06-21,2019-06-23,town
+constellation,2019,"Elkins, West Virginia, USA",38.925,-79.847,900,organizer_estimate,medium,unknown,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-10,,town
+constellation,2020,,,,,,medium,cancelled,https://web.archive.org/web/2021/https://constellationburn.org/,,,
+constellation,2021,,,,,,high,cancelled,https://web.archive.org/web/2021/https://constellationburn.org/,,,
+constellation,2022,"Elkins, West Virginia, USA",38.925,-79.847,,,medium,held,https://web.archive.org/web/2021/https://constellationburn.org/,,,town
+constellation,2025,"Elkins, West Virginia, USA",38.925,-79.847,,,medium,held,https://constellationburn.org/,2025-09,,town
+constellation,2026,,,,,,high,cancelled,https://constellationburn.org/,,,
+dragon_burn,2014,"former movie set on Lake Tai, Zhejiang/Jiangsu, China",31.15,120.15,282,tickets_sold,high,held,https://www.dragonburn.org/reports/DB-Afterburn-Report-2014.pdf,2014-06-06,2014-06-08,area
+dragon_burn,2015,"TianJenWenYuan, HangGaizhen, Anji county, Zhejiang, China",30.63,119.68,190,tickets_sold,high,held,https://www.dragonburn.org/reports/DB-Afterburn-Report-2015.pdf,2015-10-23,2015-10-25,area
+dragon_burn,2015,"TianJenWenYuan, HangGaizhen, Anji county, Zhejiang, China",30.63,119.68,180,organizer_estimate,high,held,https://www.dragonburn.org/reports/DB-Afterburn-Report-2015.pdf,2015-10-23,2015-10-25,area
+dragon_burn,2016,"Anji county, Zhejiang, China",30.63,119.68,520,tickets_sold,high,held,https://www.dragonburn.org/reports/DB-Afterburn-Report-2016.pdf,2016-05-27,2016-05-30,area
+dragon_burn,2016,"Anji county, Zhejiang, China",30.63,119.68,500,organizer_estimate,high,held,https://www.dragonburn.org/reports/DB-Afterburn-Report-2016.pdf,2016-05-27,2016-05-30,area
+dragon_burn,2017,"TianJenWenYuan, HangGaizhen, Anji county, Zhejiang, China",30.63,119.68,400,attendance,high,held,https://www.dragonburn.org/reports/DB-Afterburn-Report-2017.pdf,2017-05-26,2017-05-30,area
+dragon_burn,2018,"Anji county, Zhejiang, China",30.63,119.68,700,attendance,high,held,https://www.dragonburn.org/reports/DB-Afterburn-Report-2018.pdf,,,area
+dragon_burn,2018,"Anji county, Zhejiang, China",30.63,119.68,700,tickets_sold,high,held,https://www.dragonburn.org/reports/DB-Afterburn-Report-2018.pdf,,,area
+dragon_burn,2019,"Anji county, Zhejiang, China",30.63,119.68,800,tickets_sold,high,held,https://www.dragonburn.org/reports/DB-Afterburn-Report-2019.pdf,2019-05-01,2019-05-05,area
+element_burn,2019,"Mpumalanga, South Africa",-25.5,30.5,,,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-02-21,2019-02-24,region
+emergence,2019,"outside Charleston, South Carolina, USA",32.777,-79.931,400,organizer_estimate,medium,unknown,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-03-28,2019-03-31,town
+emergence,2022,"outside Charleston, South Carolina, USA",32.777,-79.931,,,medium,held,https://web.archive.org/web/2021/https://www.emergenceburn.org/,2022-03-24,2022-03-27,town
+firefly,2003,"NUHOC land, Shelburne, New Hampshire, USA",44.401,-71.075,175,tickets_sold,medium,held,https://en.wikipedia.org/wiki/Firefly_Arts_Collective,2003-07,,town
+firefly,2007,"NUHOC land, Shelburne, New Hampshire, USA",44.401,-71.075,500,tickets_sold,medium,held,https://en.wikipedia.org/wiki/Firefly_Arts_Collective,2007-07,,town
+firefly,2008,"NUHOC land, Shelburne, New Hampshire, USA",44.401,-71.075,500,tickets_sold,medium,held,https://en.wikipedia.org/wiki/Firefly_Arts_Collective,2008-07,,town
+firefly,2009,"Bethel, Vermont, USA",43.8333,-72.6333,500,tickets_sold,medium,held,https://en.wikipedia.org/wiki/Firefly_Arts_Collective,2009-07,,town
+firefly,2010,"Bethel, Vermont, USA",43.8333,-72.6333,600,tickets_sold,medium,held,https://en.wikipedia.org/wiki/Firefly_Arts_Collective,2010-07,,town
+firefly,2013,"Bethel, Vermont, USA",43.8333,-72.6333,845,tickets_sold,medium,held,https://en.wikipedia.org/wiki/Firefly_Arts_Collective,2013-07,,town
+firefly,2014,"Bethel, Vermont, USA",43.8333,-72.6333,950,tickets_sold,medium,held,https://en.wikipedia.org/wiki/Firefly_Arts_Collective,2014-07,,town
+firefly,2014,"Bethel, Vermont, USA",43.8333,-72.6333,821,attendance,medium,held,https://en.wikipedia.org/wiki/Firefly_Arts_Collective,2014-07,,town
+firefly,2015,"Bethel, Vermont, USA",43.8333,-72.6333,835,tickets_sold,medium,held,https://en.wikipedia.org/wiki/Firefly_Arts_Collective,2015-07,,town
+firefly,2015,"Bethel, Vermont, USA",43.8333,-72.6333,828,attendance,medium,held,https://en.wikipedia.org/wiki/Firefly_Arts_Collective,2015-07,,town
+firefly,2016,"Bethel, Vermont, USA",43.8333,-72.6333,1050,tickets_sold,medium,held,https://en.wikipedia.org/wiki/Firefly_Arts_Collective,2016-07,,town
+firefly,2016,"Bethel, Vermont, USA",43.8333,-72.6333,922,attendance,medium,held,https://en.wikipedia.org/wiki/Firefly_Arts_Collective,2016-07,,town
+firefly,2017,"Bethel, Vermont, USA",43.8333,-72.6333,1122,tickets_sold,medium,held,https://en.wikipedia.org/wiki/Firefly_Arts_Collective,2017-07,,town
+firefly,2017,"Bethel, Vermont, USA",43.8333,-72.6333,1030,attendance,medium,held,https://en.wikipedia.org/wiki/Firefly_Arts_Collective,2017-07,,town
+firefly,2018,"Bethel, Vermont, USA",43.8333,-72.6333,1290,tickets_sold,medium,held,https://en.wikipedia.org/wiki/Firefly_Arts_Collective,2018-07,,town
+firefly,2018,"Bethel, Vermont, USA",43.8333,-72.6333,1210,attendance,medium,held,https://en.wikipedia.org/wiki/Firefly_Arts_Collective,2018-07,,town
+firefly,2019,"Bethel, Vermont, USA",43.8333,-72.6333,1300,organizer_estimate,medium,held,https://en.wikipedia.org/wiki/Firefly_Arts_Collective,2019-07,,town
+firefly,2019,"Bethel, Vermont, USA",43.8333,-72.6333,1050,organizer_estimate,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-07,,town
+firefly,2020,,,,,,high,cancelled,https://web.archive.org/web/20201027143928/https://www.fireflyartscollective.org/,,,
+firefly,2021,,,,,,high,cancelled,https://web.archive.org/web/20210518195718/https://www.fireflyartscollective.org/,,,
+firefly,2022,"Bethel, Vermont, USA",43.8333,-72.6333,,,medium,held,https://web.archive.org/web/20220702173914/https://www.fireflyartscollective.org/,2022-07,,town
+firefly,2023,"Bethel, Vermont, USA",43.8333,-72.6333,,,high,held,https://web.archive.org/web/20230602181243/https://www.fireflyartscollective.org/,2023-07-04,2023-07-09,town
+firefly,2024,"Bethel, Vermont, USA",43.8333,-72.6333,,,high,held,https://web.archive.org/web/20240613095345/https://www.fireflyartscollective.org/,2024-07-02,2024-07-07,town
+firefly,2025,"Bethel, Vermont, USA",43.8333,-72.6333,,,high,held,https://web.archive.org/web/20250602203207/https://www.fireflyartscollective.org/,2025-07-01,2025-07-06,town
+fuego_de_mayo,2019,"Monticello, Florida, USA",30.545,-83.871,,,medium,unknown,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-05-02,2019-05-05,town
+fuego_de_mayo,2026,"Monticello, Florida, USA",30.545,-83.871,,,medium,scheduled_or_unverified,https://floridaenfuego.org/the-event/,,,town
+interfuse,2018,"Waynesville, Missouri, USA",37.83,-92.21,,,medium,held,http://interfuse.midwestburners.com/,2018-05-10,2018-05-13,town
+interfuse,2019,"Waynesville, Missouri, USA",37.83,-92.21,1200,organizer_estimate,medium,unknown,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-05-16,2019-05-19,town
+kiez_burn,2019,"Alt Tellin, Mecklenburg-Vorpommern, Germany",53.8667,13.2333,470,organizer_estimate,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-06-19,2019-06-23,town
+kiez_burn,2022,"near Berlin, Germany",,,,,medium,held,https://web.archive.org/web/2022/https://kiezburn.org/,,,
+mooseman,2019,"Minden, Ontario, Canada",44.925,-78.72,272,organizer_estimate,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-08,2019-08,town
+nectr,2019,"Andover, Connecticut, USA",41.735,-72.37,300,organizer_estimate,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-10,2019-10,town
+nest,2019,"near Newton Abbot, Devon, England, UK",50.528,-3.611,500,organizer_estimate,high,held,https://burningnest.co.uk/wp-content/uploads/2025/11/Finance-Report-for-Event-Year-2019.pdf,2019-05-20,2019-05-27,town
+nest,2020,,,,,,high,cancelled,https://burningnest.co.uk/wp-content/uploads/2025/11/Nest-Financial-Report-Event-Year-2020.pdf,,,
+nest,2021,,,,,,high,cancelled,https://burningnest.co.uk/wp-content/uploads/2025/11/Nest-Financial-Report-Event-Year-2021.pdf,,,
+nest,2022,"near Newton Abbot, Devon, England, UK",50.528,-3.611,,,high,held,https://burningnest.co.uk/wp-content/uploads/2025/11/WRAP-UP-REPORT-FOR-BURNING-NEST-2023.pdf,,,town
+nest,2023,"near Newton Abbot, Devon, England, UK",50.528,-3.611,680,attendance,high,held,https://burningnest.co.uk/wp-content/uploads/2025/11/WRAP-UP-REPORT-FOR-BURNING-NEST-2023.pdf,2023-05,,town
+nest,2023,"near Newton Abbot, Devon, England, UK",50.528,-3.611,753,tickets_sold,high,held,https://burningnest.co.uk/wp-content/uploads/2025/11/WRAP-UP-REPORT-FOR-BURNING-NEST-2023.pdf,2023-05,,town
+nest,2024,"near Newton Abbot, Devon, England, UK",50.528,-3.611,881,attendance,high,held,https://burningnest.co.uk/wp-content/uploads/2025/11/burning-nest-wrap-up-report-for-the-year-2024.pdf,,,town
+nest,2024,"near Newton Abbot, Devon, England, UK",50.528,-3.611,968,tickets_sold,high,held,https://burningnest.co.uk/wp-content/uploads/2025/11/burning-nest-wrap-up-report-for-the-year-2024.pdf,,,town
+nest,2025,"near Newton Abbot, Devon, England, UK",50.528,-3.611,854,attendance,high,held,https://burningnest.co.uk/wp-content/uploads/2026/02/2025-Wrap-Up-Report.pdf,2025-05-26,2025-06-02,town
+resonance,2019,"Sedan, Kansas, USA",37.126,-96.187,230,organizer_estimate,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-09,2019-09,town
+scorched_nuts,2019,"Rutland, Ohio, USA",39.05,-82.13,600,organizer_estimate,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-05-23,2019-05-27,town
+summerisle,2019,"Bedford, Pennsylvania, USA",40.018,-78.504,,,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-06-20,2019-06-23,town
+sumwhence,2019,,,,,,medium,cancelled,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,,,
+sumwhence,2026,"Colorado, USA",,,,,medium,scheduled_or_unverified,https://www.elsewhence.com/,2026-09-18,2026-09-20,
+turtle_burn,2019,Taiwan,,,,,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-06-07,2019-06-09,
+unbroken_spring,2019,"Dayton, Texas, USA",30.046,-94.885,300,organizer_estimate,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-03-14,2019-03-17,town
+wildeburn,2019,"Barberton, Mpumalanga, South Africa",-25.79,31.05,150,organizer_estimate,medium,held,https://docs.google.com/spreadsheets/d/1_t7ltGb3BD8Ocs3W3CajANOJa2tKDZLpZeBy4XyhjNc/edit#gid=1584735033,2019-10,2019-10,town

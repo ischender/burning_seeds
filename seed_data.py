@@ -11,46 +11,16 @@ import csv
 import json
 from pathlib import Path
 
-from starter_utils import candidate_path, ensure_parent, utc_stamp
+from starter_utils import (
+    EDITION_FIELDS,
+    EVENT_FIELDS,
+    OBS_FIELDS,
+    candidate_path,
+    ensure_parent,
+    utc_stamp,
+)
 
 
-EVENT_FIELDS = [
-    "event_id",
-    "name",
-    "country",
-    "first_year",
-    "parent_event_id",
-    "official_status",
-    "notes",
-]
-
-EDITION_FIELDS = [
-    "event_id",
-    "year",
-    "location",
-    "lat",
-    "lon",
-    "population",
-    "population_metric",
-    "confidence",
-    "status",
-    "source_url",
-]
-
-OBS_FIELDS = [
-    "observation_id",
-    "event_id",
-    "year",
-    "field",
-    "value",
-    "metric",
-    "source_url",
-    "source_type",
-    "retrieved_at",
-    "confidence",
-    "raw_text",
-    "notes",
-]
 
 BURNING_MAN_TIMELINE = (
     "https://history.burningman.org/timeline/"
@@ -81,6 +51,7 @@ def write_csv(
         writer = csv.DictWriter(
             fh,
             fieldnames=fields,
+            restval="",
         )
         writer.writeheader()
         writer.writerows(rows)
